@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gameplay on Double Down SRD</title>
+    <link>http://localhost:1313/running-the-game/</link>
+    <description>Recent content in Gameplay on Double Down SRD</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/running-the-game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rolls</title>
+      <link>http://localhost:1313/running-the-game/rolling-dice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/running-the-game/rolling-dice/</guid>
+      <description>&lt;h1 id=&#34;rolls&#34;&gt;&#xA;  Rolls&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#rolls&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Whenever your character attempts something risky, the GM may call for a roll. Rolls have the following steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Set Base Skill and Difficulty.&lt;/strong&gt; The GM calls for a roll, setting a base skill (from the list of nine) and a difficulty (ranging from 6-30).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Add Stars.&lt;/strong&gt; You create your die modifier by adding the stars on your character sheet from the following sources to form a total, ranging from -2 to +18. The sum of all the stars is your modifier; for example, 6✦ results in a modifier of +6.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Boons &amp; Banes</title>
+      <link>http://localhost:1313/running-the-game/boons-and-banes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/running-the-game/boons-and-banes/</guid>
+      <description>&lt;h1 id=&#34;boons--banes&#34;&gt;&#xA;  Boons &amp;amp; Banes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#boons--banes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Depending on your outcome, you may gain one or more boons to spend on the Boons Table or one or more banes for the GM to spend on the Banes Table.&lt;/p&gt;&#xA;&lt;p&gt;When selecting boons or banes, the target of the effect does not need to be the player character rolling, as long as the alternative is narratively justified. For example, if a player gets a critical success, they can spend the resulting boons to raise the morale of a nearby ally, restoring their stress or giving them a positive condition. Similarly, you can use boons to grant a positive condition to yourself or any ally or grant a negative condition to an enemy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Action Scenes</title>
+      <link>http://localhost:1313/running-the-game/action-scenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/running-the-game/action-scenes/</guid>
+      <description>&lt;h1 id=&#34;action-scenes&#34;&gt;&#xA;  Action Scenes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#action-scenes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Action scenes are moments of gameplay where time slows down and every decision matters. The narration of the game goes from a conversational flow to a more structured turn-based flow. For example, combat and chase scenes are action scenes. In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third party as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

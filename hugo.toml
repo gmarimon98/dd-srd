@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Double Down SRD'
+theme = 'hugo-book'
+[params]
+BookTheme = 'dark'
+BookToC = false
+BookSection = '*'

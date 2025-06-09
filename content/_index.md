@@ -1,0 +1,15 @@
+---
+title: Test
+description: test
+weight: 1
+---
+
+# Welcome to Double Down
+
+Double Down is a rules-light, generic D20 TTRPG system geared toward roleplaying, featuring a core push-your-luck mechanic. The rules are completely free and playing only requires the following additional materials:
+
+* a [character sheet](https://drive.google.com/file/d/1LAV0fVPMGE02cLlzdmsVBBJsvNHi02tx/view?usp=sharing) per player
+* one or more [reference sheets](https://drive.google.com/file/d/1LAV0fVPMGE02cLlzdmsVBBJsvNHi02tx/view?usp=sharing) to share 
+* one or more 20-sided dice to share
+
+I designed Double Down in my free time for personal use. If you enjoy the system and have any stories or feedback, please reach out to me at doubledown.rpg@gmail.com. 🤍
