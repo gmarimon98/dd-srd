@@ -5,4 +5,3 @@ theme = 'hugo-book'
 [params]
 BookTheme = 'dark'
 BookToC = false
-BookSection = '*'
