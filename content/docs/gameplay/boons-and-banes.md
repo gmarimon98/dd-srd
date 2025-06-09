@@ -5,9 +5,9 @@ weight: 5
 
 # Boons & Banes
 
-Depending on your outcome, you may gain one or more boons to spend on the [**Boons Table**]({{< relref "/reference#boons" >}}) or one or more banes for the GM to spend on the [**Banes Table**]({{< relref "/reference#banes" >}}).
+Depending on your outcome, you may gain one or more boons to spend on the [**Boons Table**]({{< relref "/docs/reference#boons" >}}) or one or more banes for the GM to spend on the [**Banes Table**]({{< relref "/docs/reference#banes" >}}).
 
-With a roll's final outcome, the GM refers to the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}) to determine whether you earned boons or incurred banes, keeping note of any multiplier the outcome may list. If the outcome results in boons or banes, the GM then refers to the [**Difficulty Table**]({{< relref "/reference#difficulty" >}}) to see how many, multiplying the total by the multiplier in the Outcomes table. Boons from drive are not multiplied in this way.
+With a roll's final outcome, the GM refers to the [**Outcomes Table**]({{< relref "/docs/reference#outcomes" >}}) to determine whether you earned boons or incurred banes, keeping note of any multiplier the outcome may list. If the outcome results in boons or banes, the GM then refers to the [**Difficulty Table**]({{< relref "/docs/reference#difficulty" >}}) to see how many, multiplying the total by the multiplier in the Outcomes table. Boons from drive are not multiplied in this way.
 
 When selecting boons or banes, the target of the effect does not need to be the player character rolling, as long as the alternative is narratively justified. For example, if a player gets a critical success, they can spend the resulting boons to raise the morale of a nearby ally, restoring their stress or giving them a positive condition. Similarly, you can use boons to grant a positive condition to yourself or any ally or grant a negative condition to an enemy.
 

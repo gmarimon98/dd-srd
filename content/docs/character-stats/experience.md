@@ -7,7 +7,7 @@ weight: 8
 
 At the end of each session, you gain 5 experience points. GMs can grant additional experience points or tags to one or more players as they see fit as a reward for accomplishing objectives in the campaign.
 
-During play, you can narrate your character’s training or progress to spend that experience on acquiring new tags or upgrading existing ones. How did they acquire this new or improved tag? For example, you can narrate an arduous training session at a dojo and spend the appropriate amount of experience to upgrade a `Martial Arts` ability from 2✦ to 3✦. If you are spending experience points to acquire an asset, you can for example visit a shop and spend the experience there. For a full list of progression options, see the [**Experience Table**]({{< relref "/reference#experience" >}}).
+During play, you can narrate your character’s training or progress to spend that experience on acquiring new tags or upgrading existing ones. How did they acquire this new or improved tag? For example, you can narrate an arduous training session at a dojo and spend the appropriate amount of experience to upgrade a `Martial Arts` ability from 2✦ to 3✦. If you are spending experience points to acquire an asset, you can for example visit a shop and spend the experience there. For a full list of progression options, see the [**Experience Table**]({{< relref "/docs/reference#experience" >}}).
 
 There is no monetary currency in this system, only experience points.
 

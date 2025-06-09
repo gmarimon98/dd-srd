@@ -25,16 +25,16 @@ Whenever your character attempts something with a significant chance of failure,
 
 4. **Choose a Post-Roll Action.** Optionally, choose one of the following post-roll actions.
 
-    - **Double Down.** Roll the same die again, add the same modifier, and compare it to the same difficulty. If you succeed your second roll, your original outcome increases by one tier on the [**Outcomes table**]({{< relref "/reference#outcomes" >}}) (for example, from a success to a critical success). If you roll a natural 20, your original outcome instead increases by two tiers. If you fail your second roll, your original outcome decreases by one tier. If you roll a natural 1, your original outcome instaed decreases by two tiers.
+    - **Double Down.** Roll the same die again, add the same modifier, and compare it to the same difficulty. If you succeed your second roll, your original outcome increases by one tier on the [**Outcomes table**]({{< relref "/docs/reference#outcomes" >}}) (for example, from a success to a critical success). If you roll a natural 20, your original outcome instead increases by two tiers. If you fail your second roll, your original outcome decreases by one tier. If you roll a natural 1, your original outcome instaed decreases by two tiers.
     - **Succeed at a Cost.** If your outcome is a non-critical failure, succeed but incur banes equal to the difference between your total value rolled and the difficulty. For example, if the difficulty was 16 and you rolled a total of 10, you can succeed at a cost to change your outcome to a success at the cost of 6 banes.
     - **Fold.** If your outcome is any tier of failure, gain one additional drive.
 
-5. **Calculate Boons and Banes.** With your final outcome, the GM refers to the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}) to determine whether you earned boons or incurred banes, keeping note of any multiplier the outcome may list. If the outcome results in boons or banes, the GM then refers to the [**Difficulty Table**]({{< relref "/reference#difficulty" >}}) to see how many, multiplying the total by the multiplier in the Outcomes table. Boons from drive are not multiplied in this way.
+5. **Calculate Boons and Banes.** With your final outcome, the GM refers to the [**Outcomes Table**]({{< relref "/docs/reference#outcomes" >}}) to determine whether you earned boons or incurred banes, keeping note of any multiplier the outcome may list. If the outcome results in boons or banes, the GM then refers to the [**Difficulty Table**]({{< relref "/docs/reference#difficulty" >}}) to see how many, multiplying the total by the multiplier in the Outcomes table. Boons from drive are not multiplied in this way.
 
-    - If your roll resulted in boons, spend them in the [**Boons Table**]({{< relref "/reference#boons" >}}).
-    - If your roll resulted in banes, the GM spends them in the [**Banes Table**]({{< relref "/reference#banes" >}}).
+    - If your roll resulted in boons, spend them in the [**Boons Table**]({{< relref "/docs/reference#boons" >}}).
+    - If your roll resulted in banes, the GM spends them in the [**Banes Table**]({{< relref "/docs/reference#banes" >}}).
 
-6. **Deal Damage.** If in combat, deal damage based on your outcome in the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}).
+6. **Deal Damage.** If in combat, deal damage based on your outcome in the [**Outcomes Table**]({{< relref "/docs/reference#outcomes" >}}).
 
 7. **Gain Drive.** If your outcome is any tier of failure, gain one drive (or two if you chose the Fold action in Step 4). Describe why your character failed and try to connect it to your character's flaws.
 
