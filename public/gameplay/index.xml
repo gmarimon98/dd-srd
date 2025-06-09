@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gameplay on Double Down SRD</title>
-    <link>https://example.org/gameplay/</link>
+    <link>http://localhost:1313/gameplay/</link>
     <description>Recent content in Gameplay on Double Down SRD</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/gameplay/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/gameplay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rolls</title>
-      <link>https://example.org/gameplay/rolling-dice/</link>
+      <link>http://localhost:1313/gameplay/rolling-dice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/gameplay/rolling-dice/</guid>
+      <guid>http://localhost:1313/gameplay/rolling-dice/</guid>
       <description>&lt;h1 id=&#34;rolls&#34;&gt;&#xA;  Rolls&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#rolls&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Whenever your character attempts something with a significant chance of failure, the GM may call for a roll. Rolls have the following steps.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Set Base Skill and Difficulty.&lt;/strong&gt; The GM sets a relevant base skill from the skill list (for example, Agility to cross a rickety bridge) and a difficulty from 6 (very easy) to 30 (near impossible).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Add Stars.&lt;/strong&gt; Create your die modifier (ranging from -2 to +18) by adding up the stars on your character sheet from the following sources. The total is your modifier. For example, 6✦ results in a modifier of +6.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Boons &amp; Banes</title>
-      <link>https://example.org/gameplay/boons-and-banes/</link>
+      <link>http://localhost:1313/gameplay/boons-and-banes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/gameplay/boons-and-banes/</guid>
-      <description>&lt;h1 id=&#34;boons--banes&#34;&gt;&#xA;  Boons &amp;amp; Banes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#boons--banes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Depending on your outcome, you may gain one or more boons to spend on the &lt;a href=&#34;https://example.org/reference/#boons&#34;&gt;&lt;strong&gt;Boons Table&lt;/strong&gt;&lt;/a&gt; or one or more banes for the GM to spend on the &lt;a href=&#34;https://example.org/reference/#banes&#34;&gt;&lt;strong&gt;Banes Table&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;With a roll&amp;rsquo;s final outcome, the GM refers to the &lt;a href=&#34;https://example.org/reference/#outcomes&#34;&gt;&lt;strong&gt;Outcomes Table&lt;/strong&gt;&lt;/a&gt; to determine whether you earned boons or incurred banes, keeping note of any multiplier the outcome may list. If the outcome results in boons or banes, the GM then refers to the &lt;a href=&#34;https://example.org/reference/#difficulty&#34;&gt;&lt;strong&gt;Difficulty Table&lt;/strong&gt;&lt;/a&gt; to see how many, multiplying the total by the multiplier in the Outcomes table. Boons from drive are not multiplied in this way.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/gameplay/boons-and-banes/</guid>
+      <description>&lt;h1 id=&#34;boons--banes&#34;&gt;&#xA;  Boons &amp;amp; Banes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#boons--banes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Depending on your outcome, you may gain one or more boons to spend on the &lt;a href=&#34;http://localhost:1313/reference/#boons&#34;&gt;&lt;strong&gt;Boons Table&lt;/strong&gt;&lt;/a&gt; or one or more banes for the GM to spend on the &lt;a href=&#34;http://localhost:1313/reference/#banes&#34;&gt;&lt;strong&gt;Banes Table&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;With a roll&amp;rsquo;s final outcome, the GM refers to the &lt;a href=&#34;http://localhost:1313/reference/#outcomes&#34;&gt;&lt;strong&gt;Outcomes Table&lt;/strong&gt;&lt;/a&gt; to determine whether you earned boons or incurred banes, keeping note of any multiplier the outcome may list. If the outcome results in boons or banes, the GM then refers to the &lt;a href=&#34;http://localhost:1313/reference/#difficulty&#34;&gt;&lt;strong&gt;Difficulty Table&lt;/strong&gt;&lt;/a&gt; to see how many, multiplying the total by the multiplier in the Outcomes table. Boons from drive are not multiplied in this way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Action Scenes</title>
-      <link>https://example.org/gameplay/action-scenes/</link>
+      <link>http://localhost:1313/gameplay/action-scenes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/gameplay/action-scenes/</guid>
+      <guid>http://localhost:1313/gameplay/action-scenes/</guid>
       <description>&lt;h1 id=&#34;action-scenes&#34;&gt;&#xA;  Action Scenes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#action-scenes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Action scenes are critical moments of gameplay where the narration of the game goes from a conversational flow to a more structured turn-based flow. Time slows down and every decision matters. For example, a combat against some bandits or a car chase are action scenes.&lt;/p&gt;&#xA;&lt;p&gt;In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side stars. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:&lt;/p&gt;</description>
     </item>
   </channel>
