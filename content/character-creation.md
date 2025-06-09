@@ -15,7 +15,7 @@ To create a character, first brainstorm character concepts that suit the tone an
 
     - One of the nine skills is an intentionally blank field. The GM can determine what this skill is to accommodate the setting. Ask the GM what skill they have selected and write it on the blank skill field on your sheet.
 
-4. **Create Tags.** Tags are narrative details about your character that are leveled (from 1 to 5) and can provide a bonus to your rolls. The following are the three types of tags.
+4. **Create Tags.** Tags are narrative details about your character, each with a level from 1✦ to 5✦, that can provide a bonus to your rolls. The following are the three types of tags.
 
     1. **Create Traits.** In the Traits section, write six tags representing who your character is and what forms their identity. Example traits include `Scientist`, `Elf`, `Gigantic`, `Stubborn`, `Head of the Council`, and `Good Dad`. Select two to have 3✦, two to have 2✦, and two to have 1✦. 
 

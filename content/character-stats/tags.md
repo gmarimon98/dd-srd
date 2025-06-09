@@ -5,7 +5,7 @@ weight: 2
 
 # Tags
 
-Tags are narrative details about your character that are leveled (from 1 to 5) and can provide a bonus to your rolls when exhausted. You can only add one tag to a roll.
+Tags are narrative details about your character, each with a level from 1✦ to 5✦, that can provide a bonus to your rolls. You can only add one tag to a roll.
 
 The following are the three types of tags. The different types of tags are functionally identical except for your starting amount in each type during character creation.
 
