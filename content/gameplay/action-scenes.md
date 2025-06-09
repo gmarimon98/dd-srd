@@ -35,14 +35,14 @@ For example, the following is a mid-level enemy:
     - Snapping Jaws 1✦
     - Razor Claws 1✦
 
-When attacking an enemy, make a roll against their difficulty plus an additional tag of the GM’s choice and any conditions. An enemy’s tags are not exhausted after use. Instead, the enemy cannot use that same tag again until they have used all other tags at least once. If the roll is successful, the player applies damage to the enemy’s HP based on the [**Outcomes Table**]({{< relref "/docs/reference#outcomes" >}}).
+When attacking an enemy, make a roll against their difficulty plus an additional tag of the GM’s choice and any conditions. An enemy’s tags are not exhausted after use. Instead, the enemy cannot use that same tag again until they have used all other tags at least once. If the roll is successful, the player applies damage to the enemy’s HP based on the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}).
 
 When attacking, you can also spend a total of two drive or stress to either:
 * Attack an additional enemy with the same attack (the roll’s difficulty is equal to the highest one among targets)
 * Attack an enemy that is out of reach (assuming you have a plausible ranged attack)
 
-When defending against an enemy, the player rolls defensively against the difficulty plus an additional tag of the GM’s choice and any conditions. If successful, the player can also apply damage when attacked, as per the [**Outcomes Table**]({{< relref "/docs/reference#outcomes" >}}).
+When defending against an enemy, the player rolls defensively against the difficulty plus an additional tag of the GM’s choice and any conditions. If successful, the player can also apply damage when attacked, as per the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}).
 
 ### Example Combat Roll
 
-For example, a player chooses to attack the above Young Red Dragon, using their Combat skill (3✦), Broadsword (2✦), and one drive (1✦). In response, the Young Red Dragon uses its Tail Swipe (2✦) to try to keep its distance from the player character. This results in a modifier of +6 for the player (plus one boon if successful) and a difficulty of 12. The player rolls a 20 and scores a critical success, dealing 2 damage to the Young Red Dragon, bringing it down to 6 HP remaining. Because the attack resulted in a critical success, the player gains boons based on the [**Difficulty Table**]({{< relref "/docs/reference#difficulty" >}}), gaining 4 boons (plus 1 from the spent drive) as per the difficulty 12 row.
+For example, a player chooses to attack the above Young Red Dragon, using their Combat skill (3✦), Broadsword (2✦), and one drive (1✦). In response, the Young Red Dragon uses its Tail Swipe (2✦) to try to keep its distance from the player character. This results in a modifier of +6 for the player (plus one boon if successful) and a difficulty of 12. The player rolls a 20 and scores a critical success, dealing 2 damage to the Young Red Dragon, bringing it down to 6 HP remaining. Because the attack resulted in a critical success, the player gains boons based on the [**Difficulty Table**]({{< relref "/reference#difficulty" >}}), gaining 4 boons (plus 1 from the spent drive) as per the difficulty 12 row.
