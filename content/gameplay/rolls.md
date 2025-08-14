@@ -7,12 +7,12 @@ weight: 3
 
 Whenever your character attempts something with a significant chance of failure, the GM may call for a roll. Rolls have the following steps.
 
-1. **Set Base Skill and Difficulty.** The GM sets a relevant base skill from the skill list (for example, Agility to cross a rickety bridge) and a difficulty from 6 (very easy) to 30 (near impossible).
+1. **Set Base Stat and Difficulty.** The GM sets a relevant base stat from the stat list (for example, Agility to cross a rickety bridge) and a difficulty from 6 (very easy) to 30 (near impossible).
 
 2. **Add Stars.** Create your die modifier (ranging from -2 to +18) by adding up the stars on your character sheet from the following sources. The total is your modifier. For example, 6✦ results in a modifier of +6.
 
-    - You *must* add stars from the roll's base skill, which range from 1 to 5.
-    - You *must* add and subtract stars from any conditions you may have. Describe how those specific conditions affect your character's attempt. After the roll, downgrade any conditions you have; for example, from 3✦ to 2✦.
+    - You *must* add stars from the roll's base stat, which range from 1 to 5.
+    - You *must* subtract stars based on any penalties you have reached from taking stress.
     - You can optionally exhaust up to one tag relevant to the attempt to add its stars, which range from 1 to 5. To exhaust a tag, fill in the circle next to it on your character sheet. After exhausting a tag, you cannot exhaust it again until you recover it through boons or rest. You can also exhaust a tag irrelevant to the attempt to gain its bonus, but at a -1✦ penalty.
     - You can optionally spend up to five drive to gain that amount of stars, plus that amount of boons on a success or higher (not multiplied by critical effects). Describe what unique strategy your character is using or why this attempt is particularly important to them.
 
@@ -47,9 +47,9 @@ If a player's roll exclusively aims to gain benefits from the Boons table, such 
 For a full example of a roll:
 
 1. If a character attempts to cross a precarious bridge, the GM may call for an Agility roll with a difficulty of 14. 
-2. The player has 3✦ in Agility and has no conditions. They decide to exhaust the `Rogue` trait to add its bonus of 2✦ to the roll as well. They also decide to spend one drive, adding 1✦ and a boon if the outcome is a success or higher. The player has added 6✦ to the roll, which totals to a modifier of +6. 
+2. The player has 3✦ in Agility. They decide to exhaust the `Rogue` tag to add its bonus of 2✦ to the roll as well. They also decide to spend one drive, adding 1✦ and a boon if the outcome is a success or higher. The player has added 6✦ to the roll, which totals to a modifier of +6. 
 3. The player rolls a D20 and gets a 6, which added to the modifier of +6 results in 12: a failure. 
 4. The player could fold or succeed at the cost of two banes, but instead opts to double down. They roll again and get a natural 20: a critical success. The original failure is upgraded two tiers to a critical success. 
-5. The critical success results in four boons (plus one boon from the spent drive) and the player can spend that amount on any of the effects from the Boons table. For example, with the five boons, they may give themselves a 2✦ condition called `Adrenaline Rush` and gain one drive, as they cross the bridge safely.
+5. The critical success results in four boons (plus one boon from the spent drive) and the player can spend that amount on any of the effects from the Boons table. For example, with the five boons, they may give themselves two drive and recover one stress.
 6. Since the player is not in combat, they do not deal damage.
 7. Since the player did not fail, they do not gain drive.

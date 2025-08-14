@@ -16,4 +16,4 @@ You can gain drive through the following methods:
 
 ## Regard
 
-You begin every session with two points of regard. Whenever another player character does something that makes an impression or furthers your relationship with them, whether positively or negatively, you can choose to give them one or more regard. Erase the chosen number of regard from your sheet, and grant them the same amount of drive.
+You begin every session with two points of regard. Whenever another player character does something that makes an impression or furthers your relationship with them, whether positively or negatively, you can choose to give them one or more regard. Erase the chosen amount of regard from your sheet, and grant them the same amount of drive.

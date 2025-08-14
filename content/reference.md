@@ -35,7 +35,6 @@ Legendary Failure | Suffer 8x banes | -
 1 boon | Recover stress
 2 boons | Recover tag
 2 boons | Gain drive
-1/3/6 boons | Grant a ✦/✦✦/✦✦✦ condition
 X boons | Gain a story reward
 
 ## Banes
@@ -44,7 +43,6 @@ X boons | Gain a story reward
 ---------|------------
 1 bane | Inflict stress
 2 banes | Add tension
-1/3/6 banes | Grant a ✦/✦✦/✦✦✦ condition
 X banes | Complicate the story
 
 ## Experience
@@ -63,5 +61,4 @@ X banes | Complicate the story
 ------------|-----------------
 When applying drive... | What unique strategy are you using to give you an advantage, or why is this attempt particularly important to you?
 When failing a roll... | Why did you fail? Which of your flaws can you connect this to?
-When rolling with a condition... | How is that specific condition affecting your attempt?
 When spending experience points... | How did you acquire this new or improved tag?

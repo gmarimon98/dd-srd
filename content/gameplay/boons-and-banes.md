@@ -9,7 +9,7 @@ Depending on your outcome, you may gain one or more boons to spend on the [**Boo
 
 With a roll's final outcome, the GM refers to the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}) to determine whether you earned boons or incurred banes, keeping note of any multiplier the outcome may list. If the outcome results in boons or banes, the GM then refers to the [**Difficulty Table**]({{< relref "/reference#difficulty" >}}) to see how many, multiplying the total by the multiplier in the Outcomes table. Boons from drive are not multiplied in this way.
 
-When selecting boons or banes, the target of the effect does not need to be the player character rolling, as long as the alternative is narratively justified. For example, if a player gets a critical success, they can spend the resulting boons to raise the morale of a nearby ally, restoring their stress or giving them a positive condition. Similarly, you can use boons to grant a positive condition to yourself or any ally or grant a negative condition to an enemy.
+When selecting boons or banes, the target of the effect does not need to be the player character rolling, as long as the alternative is narratively justified. For example, if a player gets a critical success, they can spend the resulting boons to raise the morale of a nearby ally, restoring their stress or granting them drive.
 
 In the case that you apply drive to a roll and succeed at a cost, you gain both boons (from the drive) and banes (from succeeding at a cost). In this case, you can spend your boons first, and then the GM spends banes.
 
