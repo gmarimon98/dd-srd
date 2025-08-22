@@ -7,9 +7,9 @@ weight: 3
 
 Whenever your character attempts something with a significant chance of failure, the GM may call for a roll. Rolls have the following steps.
 
-1. **Set Base Stat and Difficulty.** The GM sets a relevant base stat from the stat list (for example, Agility to cross a rickety bridge) and a difficulty from 6 (very easy) to 30 (near impossible).
+1. **Set Base Stat and Difficulty.** The GM sets a relevant base stat from the stat list (for example, Agility to cross a rickety bridge) and a difficulty from 10 (easy) to 25 or more (impossible).
 
-2. **Add Stars.** Create your die modifier (ranging from -2 to +18) by adding up the stars on your character sheet from the following sources. The total is your modifier. For example, 6✦ results in a modifier of +6.
+2. **Add Stars.** Create your die modifier (ranging from -3 to +15) by adding up the stars on your character sheet from the following sources. The total is your modifier. For example, 6✦ results in a modifier of +6.
 
     - You *must* add stars from the roll's base stat, which range from 1 to 5.
     - You *must* subtract stars based on any penalties you have reached from taking stress.

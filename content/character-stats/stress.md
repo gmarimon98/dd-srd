@@ -15,6 +15,6 @@ If a character rests for a considerable period of time (8-24 hours) in a non-str
 
 By default, your character cannot die unless you choose for them to. If or when you choose for your character to die, they can accomplish any one task they are technically capable of in the moment, automatically succeeding at any rolls required, as long as the Game Master approves. For example, if a dragon is about to destroy your character's home village and all hope is lost, you can choose to kill your character in order to charge into combat and kill the dragon before it causes any damage. If the GM approves, it happens and your character dies.
 
-If your character dies, you can create a new character for the GM to incorporate into the story whenever they can.
+If your character dies, you can create a new character for the GM to incorporate into the story whenever they can. You can optionally create a new character with additional experience equal to the amount the players have gained throughout the course of the campaign.
 
 Optionally, if you'd like more risk of character death, when you become out in an appropriate moment, with your consent, the GM can call for you to make a death roll. Roll a twenty-sided die. On a result of 1, your character dies. On a result of 20, your character recovers one stress and stops being out. On any other result, your character remains alive but still out.

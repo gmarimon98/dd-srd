@@ -7,48 +7,49 @@ weight: 10
 
 ## Outcomes
 
-**Outcome** | **Effect** | **Combat**
---------|--------|--------
-Legendary Success | Gain 4x boons | 4 damage
-Overwhelming Success | Gain 2x boons | 3 damage
-Critical Success | Gain boons | 2 damage
-Success | - | 1 damage
-Failure | Suffer banes | -
-Critical Failure | Suffer 2x banes | -
+**Outcome**          | **Effect**      | **Combat**
+---------------------|-----------------|--------
+Legendary Success    | Gain 4x boons   | 4 damage
+Overwhelming Success | Gain 2x boons   | 3 damage
+Critical Success     | Gain boons      | 2 damage
+Success              | -               | 1 damage
+Failure              | Suffer banes    | -
+Critical Failure     | Suffer 2x banes | -
 Overwhelming Failure | Suffer 4x banes | -
-Legendary Failure | Suffer 8x banes | -
+Legendary Failure    | Suffer 8x banes | -
 
 ## Difficulty
 
-**Difficulty** | **Boons** | **Banes**
----------------|-----------|-----------
-6-10 | 2 | 1
-11-15 | 4 | 2
-16-20 | 6 | 3
-21-25 | 8 | 4
-26-30 | 10 | 5
+**Category** | **Difficulty** | **Boons** | **Banes**
+-------------|----------------|-----------|-----------
+Easy         | 10-12          | 2         | 1
+Medium       | 13-15          | 4         | 2
+Hard         | 16-18          | 6         | 3
+Expert       | 19-21          | 8         | 4
+Master       | 22-24          | 10        | 5
+Impossible   | 25+            | 12        | 6
 
 ## Boons
 
 **Cost** | **Effect**
 ---------|------------
-1 boon | Recover stress
-2 boons | Recover tag
-2 boons | Gain drive
-X boons | Gain a story reward
+1 boon   | Recover stress
+2 boons  | Recover tag
+2 boons  | Gain drive
+X boons  | Gain a story reward
 
 ## Banes
 
 **Cost** | **Effect**
 ---------|------------
-1 bane | Inflict stress
-2 banes | Add tension
-X banes | Complicate the story
+1 bane   | Inflict stress
+2 banes  | Add tension
+X banes  | Complicate the story
 
 ## Experience
 
-**Cost** | **Effect**
----------|------------
+**Cost**     | **Effect**
+-------------|------------
 1 experience | Gain a new 1✦ tag
 3 experience | Upgrade a 1✦ tag to 2✦
 5 experience | Upgrade a 2✦ tag to 3✦
@@ -61,4 +62,3 @@ X banes | Complicate the story
 ------------|-----------------
 When applying drive... | What unique strategy are you using to give you an advantage, or why is this attempt particularly important to you?
 When failing a roll... | Why did you fail? Which of your flaws can you connect this to?
-When spending experience points... | How did you acquire this new or improved tag?
