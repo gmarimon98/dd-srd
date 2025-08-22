@@ -11,6 +11,6 @@ During play, you can narrate your character’s training or progress to spend th
 
 There is no monetary currency in this system, only experience points.
 
-If your character is one of the owners of a [side sheet]({{< relref "/character-stats/side-sheets" >}}), you can also spend your experience points to upgrade the side sheet's tags.
+If your character is one of the owners of a [side sheet]({{< relref "/side-sheets" >}}), you can also spend your experience points to upgrade the side sheet's tags.
 
 Assuming players gain an average of six experience points per session, increasing all your starting tags to 5✦ takes around 30 sessions of play.
