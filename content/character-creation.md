@@ -7,7 +7,7 @@ weight: 1
 
 To create a character, first brainstorm character concepts that suit the tone and setting and tone of your game with your group, ideally in a Session Zero. Once you have a character concept you're happy with, follow these steps:
 
-1. **Get a Character Sheet.** The Double Down character sheet PDF is [available for download](https://1drv.ms/i/c/391fe1ecd2a3c6fc/EYXn75GZxUVMsHhMCvsOd9cBgIRG25UyMR1sHyI-qnEW0g?e=xirUyK).
+1. **Get a Character Sheet.** The Double Down character sheet PDF is [available for download](https://1drv.ms/b/c/391fe1ecd2a3c6fc/EcLm-nAlkyxAhIphdENLOBMBleH7MgqELQP_HNhcn5sHOg?e=7AyqeS).
 
 2. **Fill in Character Details.** Write your character's name at the top of the sheet, then fill in each field below with your character's personal details (such as Motivations and Flaws). This section has no mehcanical or gameplay effect and only exists to help you further develop your character, so feel free to skip this step if you want more time to brainstorm your character's personality.
 

@@ -7,6 +7,10 @@ weight: 12
 
 Double Down has gone through the following rules and balance changes.
 
+### 26 August 2025
+- Updated character and side sheets to be form-fillable
+- Uploaded reference sheet
+
 ### 22 August 2025
 - Replaced character development mechanic with GM-controlled experience rewards
 - Rebalanced difficulty table to remove extremely low and high difficulties

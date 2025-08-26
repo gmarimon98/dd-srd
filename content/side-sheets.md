@@ -7,7 +7,7 @@ weight: 9
 
 If the narrative includes a character, pet, sidekick, organization, or other entity that trascends the scope of a tag and warrants its own character sheet, then the GM can create a side sheet for that character.
 
-As the GM, print the [side sheets](https://1drv.ms/i/c/391fe1ecd2a3c6fc/EQguPptNx3ZMuDlb5-EtpxQBd2b32UlDp-TjzHfTrH0dkw?e=RCZrg6), cut it in half to form two individual side sheets, and fill out the following information for them:
+As the GM, download or print [side sheets]({{< relref "/downloads" >}}) and fill out the following information for them:
 
 * **Name**: The entity's name
 * **Owners**: The list of player characters that can make rolls through this side sheet
