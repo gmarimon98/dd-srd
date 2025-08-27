@@ -8,14 +8,14 @@
   #
 
 Action scenes are critical moments of gameplay where the narration of the game goes from a conversational flow to a more structured turn-based flow. Time slows down and every decision matters. For example, a combat against some bandits or a car chase are action scenes.
-In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side stars. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:">
+In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
 <meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/gameplay/action-scenes/">
   <meta property="og:site_name" content="Double Down SRD">
   <meta property="og:title" content="Action Scenes">
   <meta property="og:description" content="Action Scenes # Action scenes are critical moments of gameplay where the narration of the game goes from a conversational flow to a more structured turn-based flow. Time slows down and every decision matters. For example, a combat against some bandits or a car chase are action scenes.
-In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side stars. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:">
+In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="gameplay">
@@ -25,7 +25,7 @@ In action scenes, the GM first establishes which sides are participating in the 
 <link rel="canonical" href="http://localhost:1313/gameplay/action-scenes/">
 <link rel="stylesheet" href="/book.min.e47103a2785905b5db8438d6a609c05371af6c90eabdc369de60b296f8bba830.css" integrity="sha256-5HEDonhZBbXbhDjWpgnAU3GvbJDqvcNp3mCylvi7qDA=" crossorigin="anonymous">
   <script defer src="/fuse.min.js"></script>
-  <script defer src="/en.search.min.18ef7966173ab695be1169075d08d801cba06b135ec501ce05b1236e13c3d3f7.js" integrity="sha256-GO95Zhc6tpW&#43;EWkHXQjYAcugaxNexQHOBbEjbhPD0/c=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.d9078036b9038b4f5269aad7c8db764c9a14d385f7ad04d6132b5f0fb172fb07.js" integrity="sha256-2QeANrkDi09SaarXyNt2TJoU04X3rQTWEytfD7Fy&#43;wc=" crossorigin="anonymous"></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -105,7 +105,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/gameplay/rolling-dice/" class="">Rolls</a>
+    <a href="/gameplay/rolls/" class="">Rolls</a>
   
 
         </li>
@@ -162,7 +162,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/character-stats/skills/" class="">Skills</a>
+    <a href="/character-stats/stats/" class="">Stats</a>
   
 
         </li>
@@ -176,19 +176,6 @@ https://github.com/alex-shpak/hugo-book
 
   
     <a href="/character-stats/tags/" class="">Tags</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/character-stats/conditions/" class="">Conditions</a>
   
 
         </li>
@@ -234,6 +221,19 @@ https://github.com/alex-shpak/hugo-book
       
     
   </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/side-sheets/" class="">Side Sheets</a>
+  
 
         </li>
       
@@ -331,7 +331,7 @@ https://github.com/alex-shpak/hugo-book
   <a class="anchor" href="#action-scenes">#</a>
 </h1>
 <p>Action scenes are critical moments of gameplay where the narration of the game goes from a conversational flow to a more structured turn-based flow. Time slows down and every decision matters. For example, a combat against some bandits or a car chase are action scenes.</p>
-<p>In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side stars. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:</p>
+<p>In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:</p>
 <ul>
 <li>Move from one place to another</li>
 <li>Make one roll</li>
@@ -344,10 +344,9 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 <p>Combat is a type of action scene where the players fight enemies. Enemies have the following attributes:</p>
 <ul>
-<li>A difficulty, ranging from 6 to 30</li>
+<li>A difficulty, ranging from 10 to 25</li>
 <li>An HP value, ranging from 1 to around 10</li>
 <li>A list of tags, each with a star value ranging from 1-5</li>
-<li>A positive condition slot and negative condition slot (starts empty)</li>
 </ul>
 <p>For example, the following is a mid-level enemy:</p>
 <p><strong>Young Red Dragon</strong></p>
@@ -365,18 +364,13 @@ https://github.com/alex-shpak/hugo-book
 </ul>
 </li>
 </ul>
-<p>When attacking an enemy, make a roll against their difficulty plus an additional tag of the GM’s choice and any conditions. An enemy’s tags are not exhausted after use. Instead, the enemy cannot use that same tag again until they have used all other tags at least once. If the roll is successful, the player applies damage to the enemy’s HP based on the <a href="/reference/#outcomes"><strong>Outcomes Table</strong></a>.</p>
-<p>When attacking, you can also spend a total of two drive or stress to either:</p>
-<ul>
-<li>Attack an additional enemy with the same attack (the roll’s difficulty is equal to the highest one among targets)</li>
-<li>Attack an enemy that is out of reach (assuming you have a plausible ranged attack)</li>
-</ul>
-<p>When defending against an enemy, the player rolls defensively against the difficulty plus an additional tag of the GM’s choice and any conditions. If successful, the player can also apply damage when attacked, as per the <a href="/reference/#outcomes"><strong>Outcomes Table</strong></a>.</p>
+<p>When attacking an enemy, make a roll against their difficulty plus an additional tag of the GM’s choice. An enemy’s tags are not exhausted after use. Instead, the enemy cannot use that same tag again until they have used all other tags at least once. If the roll is successful, the player applies damage to the enemy’s HP based on the <a href="/reference/#outcomes"><strong>Outcomes Table</strong></a>.</p>
+<p>When defending against an enemy, the player rolls defensively against the difficulty plus an additional tag of the GM’s choice. If successful, the player can also apply damage when attacked, as per the <a href="/reference/#outcomes"><strong>Outcomes Table</strong></a>.</p>
 <h3 id="example-combat-roll">
   Example Combat Roll
   <a class="anchor" href="#example-combat-roll">#</a>
 </h3>
-<p>For example, a player chooses to attack the above Young Red Dragon, using their Combat skill (3✦), Broadsword (2✦), and one drive (1✦). In response, the Young Red Dragon uses its Tail Swipe (2✦) to try to keep its distance from the player character. This results in a modifier of +6 for the player (plus one boon if successful) and a difficulty of 12. The player rolls a 20 and scores a critical success, dealing 2 damage to the Young Red Dragon, bringing it down to 6 HP remaining. Because the attack resulted in a critical success, the player gains boons based on the <a href="/reference/#difficulty"><strong>Difficulty Table</strong></a>, gaining 4 boons (plus 1 from the spent drive) as per the difficulty 12 row.</p>
+<p>For example, a player chooses to attack the above Young Red Dragon, using their Combat stat (3✦), Broadsword (2✦), and one drive (1✦). In response, the Young Red Dragon uses its Tail Swipe (2✦) to try to keep its distance from the player character. This results in a modifier of +6 for the player (plus one boon if successful) and a difficulty of 12. The player rolls a 20 and scores a critical success, dealing 2 damage to the Young Red Dragon, bringing it down to 6 HP remaining. Because the attack resulted in a critical success, the player gains boons based on the <a href="/reference/#difficulty"><strong>Difficulty Table</strong></a>, gaining 2 boons (plus 1 from the spent drive) as per the difficulty 12 row.</p>
 </article>
  
       
