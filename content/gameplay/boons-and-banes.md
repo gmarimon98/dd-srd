@@ -15,7 +15,7 @@ In the case that you apply drive to a roll and succeed at a cost, you gain both 
 
 ## Tension
 
-As a bane, the GM can choose to add one or more points of tension to the session. You can represent tension with any kind of tokens clearly visible at the center of the play area. When there’s tension in play, any failure can result in worse consequences. At any point when inflicting banes, the GM can choose to add any points of tension to increase the number of banes inflicted. For example, if there is three tension in play and a player’s roll results in a failure or lower, the GM can choose whether to spend each of those points of tension to add an additional bane for each tension spent (in this case, up to three).
+As a bane, the GM can choose to add one or more points of tension to the session. You can represent tension with any kind of tokens clearly visible at the center of the play area. When there’s tension in play, any failure can result in worse consequences. At any point when inflicting banes, the GM can choose to add any points of tension to increase the number of banes inflicted. For example, if there is three tension in play and a player’s roll results in a failure or lower, the GM can choose whether to spend each of those points of tension to add an additional bane for each tension spent (in this case, up to three). Tension is preserved between sessions.
 
 ## Story Rewards and Complications
 
