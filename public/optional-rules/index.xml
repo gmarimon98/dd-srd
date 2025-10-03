@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optional Rules on Double Down SRD</title>
+    <link>http://localhost:1313/optional-rules/</link>
+    <description>Recent content in Optional Rules on Double Down SRD</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/optional-rules/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Side Sheets</title>
+      <link>http://localhost:1313/optional-rules/side-sheets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/optional-rules/side-sheets/</guid>
+      <description>&lt;h1 id=&#34;side-sheets&#34;&gt;&#xA;  Side Sheets&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#side-sheets&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;If the narrative includes a character, pet, sidekick, organization, or other entity that trascends the scope of a tag and warrants its own character sheet, then the GM can create a side sheet for that character.&lt;/p&gt;&#xA;&lt;p&gt;As the GM, download or print &lt;a href=&#34;http://localhost:1313/downloads/&#34;&gt;side sheets&lt;/a&gt; and fill out the following information for them:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Name&lt;/strong&gt;: The entity&amp;rsquo;s name&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Owners&lt;/strong&gt;: The list of player characters that can make rolls through this side sheet&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stats&lt;/strong&gt;: The list of stats, which could follow the standard rules of character creation or whatever the GM decides&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: The list of tags, which could follow the standard rules of character creation or whatever the GM decides&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Side sheets do not have experience, drive, or stress. The side sheet&amp;rsquo;s owners can control the entity, roleplay as it, decide its actions, and make rolls through it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -16,6 +16,8 @@
   </url><url>
     <loc>http://localhost:1313/gameplay/rolls/</loc>
   </url><url>
+    <loc>http://localhost:1313/optional-rules/</loc>
+  </url><url>
     <loc>http://localhost:1313/gameplay/boons-and-banes/</loc>
   </url><url>
     <loc>http://localhost:1313/character-stats/stress/</loc>
@@ -26,7 +28,7 @@
   </url><url>
     <loc>http://localhost:1313/gameplay/action-scenes/</loc>
   </url><url>
-    <loc>http://localhost:1313/side-sheets/</loc>
+    <loc>http://localhost:1313/optional-rules/side-sheets/</loc>
   </url><url>
     <loc>http://localhost:1313/reference/</loc>
   </url><url>
