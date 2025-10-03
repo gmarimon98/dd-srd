@@ -8,10 +8,10 @@ weight: 10
 ## Outcomes
 
 **Outcome**          | **Effect**      | **Combat**
----------------------|-----------------|--------
-Legendary Success    | Gain 4x boons   | 4 damage
-Overwhelming Success | Gain 2x boons   | 3 damage
-Critical Success     | Gain boons      | 2 damage
+---------------------|-----------------|------------
+Legendary Success    | Gain 4x boons   | 15 damage
+Overwhelming Success | Gain 2x boons   | 7 damage
+Critical Success     | Gain boons      | 3 damage
 Success              | -               | 1 damage
 Failure              | Suffer banes    | -
 Critical Failure     | Suffer 2x banes | -
