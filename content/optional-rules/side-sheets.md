@@ -5,9 +5,9 @@ weight: 9
 
 # Side Sheets
 
-If the narrative includes a character, pet, sidekick, organization, or other entity that trascends the scope of a tag and warrants its own character sheet, then the GM can create a side sheet for that character.
+If the narrative includes an entity such as a character, pet, sidekick, or organization that is important enough to warrant its own character sheet, then the GM can choose to create a side sheet for that character.
 
-As the GM, download or print [side sheets]({{< relref "/downloads" >}}) and fill out the following information for them:
+As the GM, download or print a [side sheet]({{< relref "/downloads" >}}) and fill it out with the following information:
 
 * **Name**: The entity's name
 * **Owners**: The list of player characters that can make rolls through this side sheet
@@ -19,30 +19,39 @@ Side sheets do not have experience, drive, or stress. The side sheet's owners ca
 When the side sheet's entity attempts something risky, use the standard rules for rolling, with the following exceptions:
 
 1. One of the side sheet's owners must become the roller, making the roll.
-2. The roller adds the side sheet's relevant stat, can exhaust up to one of the side sheet's tags to add its bonus, and can spend any amount of drive from their own character sheet to form the roll's bonus.
-3. If the side sheet takes stress, the roller can choose to take all of that stress instead. If the side sheet takes one or more points of stress, it becomes out. Flip the side sheet to its backside. When the side sheet's entity can rest, turn it faceup again and recover its tags.
+2. To form the roll's bonus, the roller uses the side sheet's stats and tags and can use their own drive.
+3. If the side sheet takes stress, the roller can choose to take that stress instead. If the side sheet takes one or more points of stress, it becomes OUT. To remember, flip the side sheet to its backside. When the side sheet's entity rests, turn it faceup again and recover its tags.
 4. If the roller earns boons, they can spend them to recover the side sheet's tags.
 
 A side sheet's owners can spend their own experience points to upgrade its tags.
 
-### Example Side Sheet and Roll
+---
 
-All of the player characters are spies belonging to the same intelligence organization, the CIA, which can provide support to them during missions. Instead of all the player characters having a tag called `CIA Support`, the GM decides that it's more appropriate to give the organization a side sheet.
+## Example Side Sheet and Roll
 
-First, the GM names the side sheet "CIA" and marks down every player character as one of the owners.
+In this example campaign, the player characters are spies belonging to an organization called Ares Intelligence, which they can radio for support during missions. Instead of all the characters simply having a tag called `Ares Intelligence`, the GM decides that the organization warrants its own side sheet.
+
+First, the GM names the side sheet "Ares Intelligence" and marks down every player character as one of the owners.
 
 Then, the GM designs the following stats and gives them to the side sheet:
 
-* **Gadgetry (GAD)** 5✦
-* **Reconnaisance (REC)** 4✦
+* **Intel (INT)** 5✦
+* **Politics (POL)** 4✦
+* **Weaponry (WEA)** 4✦
 * **Contacts (CON)** 3✦
-* **Weaponry (WEA)** 2✦
-* **Transportation (TRA)** 1✦
+* **Technology (TEC)** 2✦
+* **Resources (RES)** 2✦
+* **Transport (TRA)** 1✦
 
 Finally, the GM designs the following tags and gives them to the side sheet:
 
 * `Sports Car Garage` 3✦
-* `Allies with MI6` 2✦
+* `Ally with MI6` 2✦
 * `Laboratory Interns` 1✦
 
-During play, one of the player characters, Agent Nat, needs a quick getaway after a heist at the Russian embassy, so they call for CIA backup. The GM calls for a Transportation roll with a difficulty of 16. Nat's player, the roller, adds the CIA's Transportation stars (1✦), chooses to exhaust the `Sports Car Garage` tag to add its stars (3✦), and chooses to spend three of their own drive, for a total bonus of +7. Nat's player makes the roll and gets a natural 20, chooses not to double down, and earns a critical success and a total of nine boons (six by default, plus three from the spent drive). They choose to spend two of those boons to recover the CIA's `Sports Car Garage` tag, six to gain three drive, and one to recover one stress.
+During play, one of the player characters, Agent Little, needs to make a quick getaway after a heist at a Russian embassy. So, they choose to radio for Ares backup:
+
+1. The GM calls for a Transport roll with a difficulty of 16. 
+2. Agent Little's player, the roller, adds Ares' Transport (1✦), chooses to exhaust its `Sports Car Garage` tag (3✦), and chooses to spend three of their own drive, for a total bonus of +7. 
+3. They roll and get a natural 20 and choose not to double down, resulting in a critical success and a total of nine boons (six by default, plus three from the spent drive). 
+4. They choose to spend two of those boons to recover Ares' `Sports Car Garage` tag, six to gain three drive, and one to recover one stress.

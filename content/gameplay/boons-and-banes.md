@@ -11,11 +11,9 @@ With a roll's final outcome, the GM refers to the [**Outcomes Table**]({{< relre
 
 When selecting boons or banes, the target of the effect does not need to be the player character rolling, as long as the alternative is narratively justified. For example, if a player gets a critical success, they can spend the resulting boons to raise the morale of a nearby ally, restoring their stress or granting them drive. Or, if using a [side sheet]({{< relref "/optional-rules/side-sheets" >}}), you can recover its tags.
 
-In the case that you apply drive to a roll and succeed at a cost, you gain both boons (from the drive) and banes (from succeeding at a cost). In this case, you can spend your boons first, and then the GM spends banes.
-
 ## Tension
 
-As a bane, the GM can choose to add one or more points of tension to the session. You can represent tension with any kind of tokens clearly visible at the center of the play area. When there’s tension in play, any failure can result in worse consequences. At any point when inflicting banes, the GM can choose to add any points of tension to increase the number of banes inflicted. For example, if there is three tension in play and a player’s roll results in a failure or lower, the GM can choose whether to spend each of those points of tension to add an additional bane for each tension spent (in this case, up to three). Tension is preserved between sessions.
+As a bane, the GM can choose to add one or more points of tension to the session. You can represent tension with any kind of tokens clearly visible at the center of the play area. At any point, the GM can spend any amount of tension to inflict the same amount of banes. Tension is preserved between sessions.
 
 ## Story Rewards and Complications
 

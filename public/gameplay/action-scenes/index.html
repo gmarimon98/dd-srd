@@ -10,23 +10,20 @@
 Action scenes are critical moments of gameplay where the narration of the game goes from a conversational flow to a more structured turn-based flow. Time slows down and every decision matters. For example, a combat against some bandits or a car chase are action scenes.
 In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
-<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2d455e">
 <meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/gameplay/action-scenes/">
-  <meta property="og:site_name" content="Double Down SRD">
+  <meta property="og:site_name" content="DD20 SRD">
   <meta property="og:title" content="Action Scenes">
   <meta property="og:description" content="Action Scenes # Action scenes are critical moments of gameplay where the narration of the game goes from a conversational flow to a more structured turn-based flow. Time slows down and every decision matters. For example, a combat against some bandits or a car chase are action scenes.
 In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="gameplay">
-<title>Action Scenes | Double Down SRD</title>
+<title>Action Scenes | DD20 SRD</title>
 <link rel="icon" href="/favicon.png" >
 <link rel="manifest" href="/manifest.json">
 <link rel="canonical" href="http://localhost:1313/gameplay/action-scenes/">
-<link rel="stylesheet" href="/book.min.e47103a2785905b5db8438d6a609c05371af6c90eabdc369de60b296f8bba830.css" integrity="sha256-5HEDonhZBbXbhDjWpgnAU3GvbJDqvcNp3mCylvi7qDA=" crossorigin="anonymous">
-  <script defer src="/fuse.min.js"></script>
-  <script defer src="/en.search.min.754c311c65bf1be5b6a0860b8415c32defd7f1729e153e11db6b037dbadeed82.js" integrity="sha256-dUwxHGW/G&#43;W2oIYLhBXDLe/X8XKeFT4R22sDfbre7YI=" crossorigin="anonymous"></script>
-<!--
+<link rel="stylesheet" href="/book.min.22a47b4814e65bd574860ef6341fa8e6612de9ca153070b8d5d3866ee32a7d10.css" integrity="sha256-IqR7SBTmW9V0hg72NB&#43;o5mEt6coVMHC41dOGbuMqfRA=" crossorigin="anonymous"><!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
@@ -41,17 +38,10 @@ https://github.com/alex-shpak/hugo-book
         
   <nav>
 <h2 class="book-brand">
-  <a class="flex align-center" href="/"><span>Double Down SRD</span>
+  <a class="flex align-center" href="/"><span>DD20 SRD</span>
   </a>
 </h2>
 
-
-<div class="book-search hidden">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
-</div>
-<script>document.querySelector(".book-search").classList.remove("hidden")</script>
 
 
 
@@ -245,6 +235,19 @@ https://github.com/alex-shpak/hugo-book
   
 
   
+    <a href="/optional-rules/modifiers/" class="">Modifiers</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
     <a href="/optional-rules/side-sheets/" class="">Side Sheets</a>
   
 
@@ -353,7 +356,6 @@ https://github.com/alex-shpak/hugo-book
 <ul>
 <li>Move from one place to another</li>
 <li>Make one roll</li>
-<li>Make a second roll (requires that you spend a total of four drive and/or stress)</li>
 </ul>
 <p>Then, the opposing side takes a turn. However, only players roll dice. Whenever other characters or enemies act, the GM imposes a roll on one or more players. A member of a side cannot take another turn until all members of that side have taken a turn.</p>
 <h2 id="combat">
@@ -364,31 +366,40 @@ https://github.com/alex-shpak/hugo-book
 <ul>
 <li>A difficulty, ranging from 10 to 25</li>
 <li>An HP value, ranging from 1 to around 10</li>
-<li>A list of tags, each with a star value ranging from 1-5</li>
+<li>A list of tags, each with a star value ranging from 1✦ to 5✦</li>
+<li>A weakness, which if invoked in the roll, causes successful combat rolls to deal one extra damage</li>
 </ul>
 <p>For example, the following is a mid-level enemy:</p>
 <p><strong>Young Red Dragon</strong></p>
 <ul>
-<li>Difficulty: 10</li>
-<li>HP: 8</li>
+<li>Difficulty: <code>10</code></li>
+<li>HP: <code>8</code></li>
+<li>Weakness: <code>Cold</code></li>
 <li>Tags:
 <ul>
-<li>Fire Breath 4✦</li>
-<li>Flying 3✦</li>
-<li>Hardy Scales 3✦</li>
-<li>Tail Swipe 2✦</li>
-<li>Snapping Jaws 1✦</li>
-<li>Razor Claws 1✦</li>
+<li><code>Fire Breath</code> 4✦</li>
+<li><code>Flying</code> 3✦</li>
+<li><code>Hardy Scales</code> 3✦</li>
+<li><code>Tail Swipe</code> 2✦</li>
+<li><code>Snapping Jaws</code> 1✦</li>
+<li><code>Razor Claws</code> 1✦</li>
 </ul>
 </li>
 </ul>
 <p>When attacking an enemy, make a roll against their difficulty plus an additional tag of the GM’s choice. An enemy’s tags are not exhausted after use. Instead, the enemy cannot use that same tag again until they have used all other tags at least once. If the roll is successful, the player applies damage to the enemy’s HP based on the <a href="/reference/#outcomes"><strong>Outcomes Table</strong></a>.</p>
 <p>When defending against an enemy, the player rolls defensively against the difficulty plus an additional tag of the GM’s choice. If successful, the player can also apply damage when attacked, as per the <a href="/reference/#outcomes"><strong>Outcomes Table</strong></a>.</p>
-<h3 id="example-combat-roll">
+<hr>
+<h2 id="example-combat-roll">
   Example Combat Roll
   <a class="anchor" href="#example-combat-roll">#</a>
-</h3>
-<p>For example, a player chooses to attack the above Young Red Dragon, using their Combat stat (3✦), Broadsword (2✦), and one drive (1✦). In response, the Young Red Dragon uses its Tail Swipe (2✦) to try to keep its distance from the player character. This results in a modifier of +6 for the player (plus one boon if successful) and a difficulty of 12. The player rolls a 20 and scores a critical success, dealing 2 damage to the Young Red Dragon, bringing it down to 6 HP remaining. Because the attack resulted in a critical success, the player gains boons based on the <a href="/reference/#difficulty"><strong>Difficulty Table</strong></a>, gaining 2 boons (plus 1 from the spent drive) as per the difficulty 12 row.</p>
+</h2>
+<p>The following is a full example of a combat roll:</p>
+<ol>
+<li>A character chooses to attack the above Young Red Dragon, using their Combat stat (3✦), Broadsword (2✦), and one drive (1✦).</li>
+<li>In response, the Young Red Dragon uses its Tail Swipe (2✦) to try to keep its distance from the player character. This results in a modifier of +6 for the player (plus one boon if successful) and a difficulty of 12.</li>
+<li>The player rolls a 20 and scores a critical success, dealing 2 damage to the Young Red Dragon, bringing it down to 6 HP remaining.</li>
+<li>Because the attack resulted in a critical success, the player gains boons based on the <a href="/reference/#difficulty"><strong>Difficulty Table</strong></a>, gaining 2 boons (plus 1 from the spent drive) as per the difficulty 12 row.</li>
+</ol>
 </article>
  
       

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Character Stats on Double Down SRD</title>
+    <title>Character Stats on DD20 SRD</title>
     <link>http://localhost:1313/character-stats/</link>
-    <description>Recent content in Character Stats on Double Down SRD</description>
+    <description>Recent content in Character Stats on DD20 SRD</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/character-stats/index.xml" rel="self" type="application/rss+xml" />
@@ -40,7 +40,7 @@
       <link>http://localhost:1313/character-stats/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/character-stats/experience/</guid>
-      <description>&lt;h1 id=&#34;experience&#34;&gt;&#xA;  Experience&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#experience&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;At the end of each session, you gain 5 experience points. GMs can grant additional experience points or tags to one or more players as they see fit as a reward for accomplishing objectives in the campaign or for excellent roleplaying. If the GM awards experience points for roleplaying, all players gain the experience, not just the player(s) responsible for the roleplaying.&lt;/p&gt;&#xA;&lt;p&gt;During play, you can narrate your character’s training or progress to spend that experience on acquiring new tags or upgrading existing ones. How did they acquire this new or improved tag? For example, you can narrate an arduous training session at a dojo and spend the appropriate amount of experience to upgrade a &lt;code&gt;Martial Arts&lt;/code&gt; tag from 2✦ to 3✦. If you are spending experience points to acquire a tag that&amp;rsquo;s an item, you can for example visit a shop and spend the experience there. For a full list of progression options, see the &lt;a href=&#34;http://localhost:1313/reference/#experience&#34;&gt;&lt;strong&gt;Experience Table&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;experience&#34;&gt;&#xA;  Experience&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#experience&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;At the end of each session, you gain 5 experience points. GMs can grant additional experience points or tags to one or more players as they see fit as a reward for accomplishing objectives in the campaign or for excellent roleplaying. If the GM awards experience points for roleplaying, all players gain the experience, not just the player(s) responsible for the roleplaying.&lt;/p&gt;&#xA;&lt;p&gt;You can spend experience at any time, even outside a session or right before a roll, to gain new tags or upgrade existing ones. For a full list of progression options, see the &lt;a href=&#34;http://localhost:1313/reference/#experience&#34;&gt;&lt;strong&gt;Experience Table&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

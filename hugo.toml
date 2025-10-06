@@ -1,10 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Double Down SRD'
+title = 'DD20 SRD'
 theme = 'hugo-book'
 [params]
 BookTheme = 'dark'
 BookToC = false
 BookSection = '*'
+BookSearch = false
 [markup.goldmark.renderer]
 unsafe = true
