@@ -1,4 +1,4 @@
 ---
 title: Character Stats
-weight: 3
+weight: 2
 ---

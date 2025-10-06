@@ -1,4 +1,4 @@
 ---
 title: Gameplay
-weight: 2
+weight: 3
 ---

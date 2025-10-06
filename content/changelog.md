@@ -12,6 +12,7 @@ Double Down has gone through the following rules and balance changes.
 - Converted stress penalties to bonuses
 - Added optional rule modifiers
 - Made tension available to spend at any time
+- Added tactical combat rules
 
 ### 26 August 2025
 - Updated character and side sheets to be form-fillable
