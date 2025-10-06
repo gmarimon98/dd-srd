@@ -54,7 +54,7 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
     * **Bolster**: On a target ally’s turn, increase their speed or range by one.
     * **Protect**: When an adjacent ally takes stress, take any amount of those points of stress instead of them.
     * **Taunt**: At the start of a target enemy’s turn, they must attack you this turn if able.
-    * **Command** When selecting which player to take the next turn, you can remove the exhausted condition from a target ally.
+    * **Command**: When selecting which player to take the next turn, you can remove the exhausted condition from a target ally.
 
 Your GM can grant you one or more **Abilities**, which give you additional options and bonuses in combat, at different points in the campaign.
 
