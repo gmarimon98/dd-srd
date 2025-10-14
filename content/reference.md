@@ -9,14 +9,14 @@ weight: 10
 
 **Outcome**          | **Effect**      | **Combat**
 ---------------------|-----------------|------------
-Legendary Success    | Gain 4x boons   | 15 damage
+Legendary Success    | Gain 3x boons   | 15 damage
 Overwhelming Success | Gain 2x boons   | 7 damage
 Critical Success     | Gain boons      | 3 damage
 Success              | -               | 1 damage
 Failure              | Suffer banes    | -
 Critical Failure     | Suffer 2x banes | -
 Overwhelming Failure | Suffer 4x banes | -
-Legendary Failure    | Suffer 8x banes | -
+Legendary Failure    | Suffer 6x banes | -
 
 ## Difficulty
 
@@ -26,8 +26,7 @@ Easy         | 10-12          | 2         | 1
 Medium       | 13-15          | 4         | 2
 Hard         | 16-18          | 6         | 3
 Expert       | 19-21          | 8         | 4
-Master       | 22-24          | 10        | 5
-Impossible   | 25+            | 12        | 6
+Impossible   | 22+            | 10        | 5
 
 ## Boons
 

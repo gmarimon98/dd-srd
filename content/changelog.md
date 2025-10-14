@@ -7,6 +7,9 @@ weight: 12
 
 Double Down has gone through the following rules and balance changes.
 
+### 14 October 2025
+- Rebalanced outcomes and difficulty tables
+
 ### 6 October 2025
 - Removed the fold and succeed at a cost options
 - Converted stress penalties to bonuses
