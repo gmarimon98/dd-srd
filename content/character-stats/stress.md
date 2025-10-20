@@ -3,13 +3,20 @@ title: Stress
 weight: 6
 ---
 
-# Stress and Rest
+# Stress
 
 Stress represents physical injury and hurt morale, with each character taking up to a maximum of eight stress before being OUT. If you’re OUT, your character is still alive but cannot attempt or succeed at any rolls until recovered through rest. You cannot recover the stress of a character who is OUT through boons.
 
 When you take stress, mark out bubbles on the stress track from left to right equal to the amount of stress taken. The stress track has star bonuses for reaching certain levels of stress. While you have 2-3 stress, all rolls you make have a bonus of 1✦. While you have 4-5 stress, increase that bonus to 2✦. While you have 6-7 stress, increase that bonus to 3✦.
 
-If a character rests for a considerable period of time (8-24 hours) in a non-stressful and safe environment, they rest. When you rest, clear all your stress and recover all your tags.
+## Rest
+
+If a character rests for an non-trivial period of time in a non-stressful and safe environment, such as in between sessions, they rest. The GM determines the quality of rest from the following list based on the story. For example, sleeping in a cold cavern with no sleeping bags might result in a short rest, while having a weekend-long vacation at a cozy inn might result in a full rest.
+
+- **Short Rest**: Gain four boons to spend on the Boons table on recovery options.
+- **Medium Rest**: Gain eight boons to spend on the Boons table on recovery options.
+- **Long Rest**: Gain twelve boons to spend on the Boons table on recovery options.
+- **Full Rest**: Clear all your stress and recover all your tags.
 
 ## Death
 

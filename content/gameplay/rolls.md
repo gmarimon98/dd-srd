@@ -38,6 +38,12 @@ In Double Down, only players roll dice. Whenever other characters or enemies act
 
 If a player's roll exclusively aims to gain benefits from the Boons table, such as when trying to heal another character's stress, it's recommended to spend drive on that roll in order to gain boons more consistently.
 
+## Group Rolls
+
+If one or more characters help another with an attempt, the roll becomes a group roll. In a group roll, any of the participating members can contribute stars from up to one stat, one tag, and five drive. For example, if players are collaborating to lift a heavy object, then one character can contribute stars from their **Toughness** (5✦), another stars from their `Four Arms` (4✦) tag, another stars from one drive (1✦), and another stars from two drive (2✦), for a total modifier of +12.
+
+One of the group roll's participants of their choice becomes the roller and rolls the D20 for the group. The group chooses whether to double down collectively by voting, with the roller breaking ties.
+
 ---
 
 ## Example Roll

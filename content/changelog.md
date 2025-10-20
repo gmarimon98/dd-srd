@@ -7,6 +7,10 @@ weight: 12
 
 Double Down has gone through the following rules and balance changes.
 
+### 20 October 2025
+- Added different levels of rest
+- Added group checks
+
 ### 14 October 2025
 - Rebalanced outcomes and difficulty tables
 
