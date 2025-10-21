@@ -17,7 +17,7 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
 
 * **Speed**: The number of spaces you can move per turn, ranging from 4-8. Your speed is equal to your **AGI** + 3. If you begin your turn adjacent to an enemy, your Speed instead becomes 1 until the end of your turn.
 
-* **Range**: The number of spaces away from your target or point of interaction you can be, ranging from 1-5. Your range is equal to your **PER**. While adjacent to an enemy, your Range instead becomes 1.
+* **Range**: The number of spaces away from your target or point of interaction you can be, ranging from 1-5. Your range is equal to your **PER**.
 
 * **Attack**: The base modifier for all your offensive rolls, plus any tags or drive, ranging from 2-6. Your attack is equal to your **COM** + 1.
 
