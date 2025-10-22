@@ -90,7 +90,7 @@ When introducing a map, the GM can designate any of the following zones to the a
 
 * **Obstacle**: A space with an obstacle blocks line of sight and cannot be entered unless the GM makes an exception. For example, a wall, a pile of boxes, or a dining room table can all be obstacles.
 
-* **Hazard**: A space with a hazard causes one stress or damage whenever a combatant enters it or ends their turn in it. For example, a pit of fire, a spike trap, or a poisonous bog can all be hazards.
+* **Hazard**: A space with a hazard causes one stress or damage whenever a combatant enters it or starts their turn in it. For example, a pit of fire, a spike trap, or a poisonous bog can all be hazards.
 
 Additionally, each tactical combat, the GM can decide to adjust the rules in any way to reflect the unique challenges of that combat. For example, in a tactical combat where heavy mist has overtaken the battlefield, the GM can decide that, for this combat, all combatants must reduce their Range by one, to a minimum of one.
 
