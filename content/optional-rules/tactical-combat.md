@@ -23,12 +23,12 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
 
 * **Defense**: The base modifier for all your defensive rolls, plus any tags or drive, ranging from 2-6. Your defense is equal to your **TOU** + 1.
 
-* **Tactics**: The number of times per combat you can use the following extra actions on a successful attack to deal more damage. You cannot use the same tactic twice in the same attack. Your tactics are equal to your **PRO**.
-    * **Backstab**: If you are behind your target, deal extra damage.
-    * **Corner**: If an ally or obstacle is directly behind your target, deal extra damage.
-    * **Charge**: If you use all your movement in a straight line, orthogonally or diagonally, to move adjacent to your target before attacking, deal extra damage.
-    * **Line Up**: If your target is at your maximum range before you move, deal extra damage.
-    * **High Ground**: If you have a clear height advantage, deal extra damage.
+* **Tactics**: The number of times per combat you can use the following extra actions on a failed or successful attack to deal damage. You cannot use the same tactic twice in the same attack. Your tactics are equal to your **PRO**.
+    * **Backstab**: If you are behind your target, deal one damage.
+    * **Corner**: If an ally or obstacle is directly behind your target, deal one damage.
+    * **Charge**: If you use all your movement in a straight line, orthogonally or diagonally, to move adjacent to your target before attacking, deal one damage.
+    * **Line Up**: If your target is at your maximum range before you move, deal one damage.
+    * **High Ground**: If you have a clear height advantage, deal one damage.
 
 * **Effects**: The number of times per combat you can use the following extra actions on a failed or successful attack to affect the enemy. Your effects are equal to your special stat.
     * **Move**: Move the target one space in any direction. Once per turn, if you move the target into an obstacle or another combatant, instead deal one damage to both.
