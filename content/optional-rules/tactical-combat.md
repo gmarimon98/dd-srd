@@ -38,9 +38,9 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
     * **Stun**: The target can’t take the next enemy turn, unless no other options remain.
 
 * **Support**: The number of times per combat you can use the following extra actions on your turn. Your support is equal to your **WIS**.
-    * **Heal**: Recover two of the target’s stress.
-    * **Recover**: Recover one of the target’s tags.
-    * **Buff**: Grant the target one drive.
+    * **Heal**: Recover one of the target’s stress.
+    * **Recover**: Recover one of the target’s tags. Costs two support instead of one.
+    * **Buff**: Grant the target one drive. Costs two support instead of one.
 
 * **Analysis**: The number of times per combat you can ask the following questions on your turn. Your analysis is equal to your **INT**.
     * What is their remaining health?
@@ -78,7 +78,9 @@ After taking your turn, you gain the exhausted condition and are not eligible to
 
 Enemies in tactical combat must have speed and range in addition to all normal statistics. They can also have one or more [abilities](#abilities). By default, enemies cannot take extra actions. However, whenever they fulfill the criteria for one or more Tactics, they gain one Difficulty for that roll for each.
 
-NPC combatants have the same statistics as enemies. When attacking each other, whoever has the highest combat strength inflicts one damage on the other.
+In tactical combat, the GM gains an additional bane option: for one bane, they can move any combatant one space. When inflicting banes on a player, stress should ideally come from one of the enemy combatants in range, though not necessarily the target of the roll.
+
+NPC combatants have the same statistics as enemies. When attacking each other, the GM selects a tag for each, and whoever has the highest combat strength inflicts one damage on the other plus any fulfilled Tactics. Upon reaching zero HP, the GM can decide whether that NPC becomes OUT or dies.
 
 If a side sheet uses the standard stat system, the GM can choose to fill a combat sheet for them.
 

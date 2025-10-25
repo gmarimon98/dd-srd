@@ -18,12 +18,12 @@ Whenever your character attempts something with a significant chance of failure,
 
 3. **Roll.** Roll a 20-sided die and add your modifier, resulting in one of the following outcomes. Critical outcomes take priority over non-critical outcomes.
 
-    - If you roll a natural 20, your outcome is a critical success.
-    - If you roll a natural 1, your outcome is a critical failure.
+    - If you roll a natural 19 or 20, your outcome is a critical success.
+    - If you roll a natural 1 or 2, your outcome is a critical failure.
     - If the total value rolled is greater to or equal than the difficulty, your outcome is a success.
     - If the total value rolled is less than the difficulty, your outcome is a failure.
 
-4. **Double Down.** Optionally, choose whether to double down. If you double down, roll the same die again, add the same modifier, and compare it to the same difficulty. If you succeed your second roll, your original outcome increases by one tier on the [**Outcomes table**]({{< relref "/reference#outcomes" >}}) (for example, from a success to a critical success). If you roll a natural 20, it instead increases by two tiers. If you fail your second roll, it decreases by one tier. If you roll a natural 1, it instead decreases by two tiers.
+4. **Double Down.** Optionally, choose whether to double down. If you double down, roll the same die again, add the same modifier, and compare it to the same difficulty. If you succeed your second roll, your original outcome increases by one tier on the [**Outcomes table**]({{< relref "/reference#outcomes" >}}) (for example, from a success to a critical success). If you roll a natural 19 or 20, it instead increases by two tiers. If you fail your second roll, it decreases by one tier. If you roll a natural 1 or 2, it instead decreases by two tiers.
 
 5. **Calculate Boons and Banes.** With your final outcome, the GM refers to the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}) to determine whether you earned boons or incurred banes, keeping note of any multiplier the outcome may list. If the outcome results in boons or banes, the GM then refers to the [**Difficulty Table**]({{< relref "/reference#difficulty" >}}) to see how many, multiplying the total by the multiplier in the Outcomes table. Boons from drive are not multiplied in this way.
 
@@ -36,13 +36,19 @@ Whenever your character attempts something with a significant chance of failure,
 
 In Double Down, only players roll dice. Whenever other characters or enemies act, the GM imposes a roll on one or more players. For example, if a player character is attacked by a goblin, then the goblin does not roll; instead, the attacked player makes a defensive roll of the GM’s design (for example, a Toughness roll to block a charge attack).
 
-If a player's roll exclusively aims to gain benefits from the Boons table, such as when trying to heal another character's stress, it's recommended to spend drive on that roll in order to gain boons more consistently.
+## Support Rolls
+
+If a player's roll exclusively aims to gain benefits from the Boons table, such as when attempting to heal an ally, then that roll becomes a support roll. In a support roll, the player gains boons on a success, but boons gained from the outcome are halved. Boons gained from drive are unaffected. 
+
+When determining support roll difficulty, a good baseline is 10 plus the amount of stress the target has taken, but the GM can ultimately set the difficulty of their choice based on other circumstances.
 
 ## Group Rolls
 
-If one or more characters help another with an attempt, the roll becomes a group roll. In a group roll, any of the participating members can contribute stars from up to one stat, one tag, and five drive. For example, if players are collaborating to lift a heavy object, then one character can contribute stars from their **Toughness** (5✦), another stars from their `Four Arms` (4✦) tag, another stars from one drive (1✦), and another stars from two drive (2✦), for a total modifier of +12.
+If one or more characters collaborate on an attempt, the roll becomes a group roll. One of the group roll's participants of their choice becomes the roller and rolls the D20 for the group. The roll's modifier is still formed by the stars of up to one stat, one tag, one stress track, and five drive. However, these sources can come from any participant.
 
-One of the group roll's participants of their choice becomes the roller and rolls the D20 for the group. The group chooses whether to double down collectively by voting, with the roller breaking ties.
+For example, if players are collaborating to lift a heavy object, then one character can contribute stars from their **Toughness** (5✦) stat, another stars from their `Four Arms` (4✦) tag and one drive (1✦), another stars from their stress track (2✦) and one drive (1✦), and another stars from two drive (2✦), for a total modifier of +15.
+
+The group votes on whether to double down, with the roller breaking ties. Only the roller gains drive on a failure.
 
 ---
 

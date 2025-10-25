@@ -7,6 +7,15 @@ weight: 12
 
 Double Down has gone through the following rules and balance changes.
 
+## 25 October 2025
+- Tweaked rest
+- Clarified group rolls
+- Added support rolls
+- Added bane option in tactical combat
+- Added tag questionnaire
+- Expanded crits to 2 and 19
+- Weakened tactical combat support options
+
 ### 20 October 2025
 - Added different levels of rest
 - Added group checks

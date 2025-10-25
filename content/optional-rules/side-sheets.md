@@ -19,7 +19,7 @@ Side sheets do not have experience, drive, or stress. The side sheet's owners ca
 When the side sheet's entity attempts something risky, use the standard rules for rolling, with the following exceptions:
 
 1. One of the side sheet's owners must become the roller, making the roll.
-2. To form the roll's bonus, the roller uses the side sheet's stats and tags and can use their own drive.
+2. To form the roll's modifier, the roller uses the side sheet's stats and tags and can use their own stress and drive.
 3. If the side sheet takes stress, the roller can choose to take that stress instead. If the side sheet takes one or more points of stress, it becomes OUT. To remember, flip the side sheet to its backside. When the side sheet's entity rests, turn it faceup again and recover its tags.
 4. If the roller earns boons, they can spend them to recover the side sheet's tags.
 
