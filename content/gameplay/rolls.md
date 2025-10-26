@@ -38,7 +38,7 @@ In Double Down, only players roll dice. Whenever other characters or enemies act
 
 ## Support Rolls
 
-If a player's roll exclusively aims to gain benefits from the Boons table, such as when attempting to heal an ally, then that roll becomes a support roll. In a support roll, the player gains half boons (x0.5) on a success. Boons gained from drive are unaffected. For example, succeeding at a support roll with a difficulty of 16 with no drive gives you 3 boons instead of 6.
+If a player's roll exclusively aims to gain benefits from the Boons table, such as when attempting to heal an ally, then that roll becomes a support roll. In a support roll, the player gains half boons (0.5x) on a success. Boons gained from drive are unaffected. For example, succeeding at a support roll with a difficulty of 16 with no drive gives you 3 boons instead of 6.
 
 When determining support roll difficulty, a good baseline is 10 plus the amount of stress the target has taken, but the GM can ultimately set the difficulty of their choice based on other circumstances.
 
