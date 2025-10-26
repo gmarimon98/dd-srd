@@ -13,7 +13,7 @@ Whenever your character attempts something with a significant chance of failure,
 
     - You *must* add stars from the roll's base stat, which range from 1✦ to 5✦.
     - You *must* add stars from the stress track, which range from 1✦ to 3✦.
-    - You can optionally exhaust up to one tag relevant to add its stars, which range from 1✦ to 5✦. To exhaust a tag, fill in the circle next to it on your character sheet. After exhausting a tag, you cannot exhaust it again until you recover it through boons or rest. You can also exhaust a tag irrelevant to the attempt to gain its bonus, but at a -1✦ penalty.
+    - You can optionally exhaust up to one tag relevant to add its stars, which range from 1✦ to 5✦. To exhaust a tag, fill in the circle next to it on your character sheet. After exhausting a tag, you cannot exhaust it again until you recover it through boons or rest. You can alternatively exhaust a tag irrelevant to the attempt to gain its bonus, but at a -1✦ penalty.
     - You can optionally spend up to five drive to gain that amount of stars, plus that amount of boons on a success or higher (not multiplied by critical effects). Describe what unique strategy your character is using or why this attempt is particularly important to them.
 
 3. **Roll.** Roll a 20-sided die and add your modifier, resulting in one of the following outcomes. Critical outcomes take priority over non-critical outcomes.
