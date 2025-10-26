@@ -22,7 +22,7 @@ This page has the following sections:
 
 Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out with the following information:
 
-* **Speed**: The number of spaces you can move per turn, ranging from 4-8. Your speed is equal to your **AGI** + 3. If you begin your turn adjacent to an enemy, your Speed instead becomes 1 until the end of your turn.
+* **Speed**: The number of spaces you can move per turn, ranging from 4-8. Your speed is equal to your **AGI** + 3. If you begin your turn adjacent to an enemy, your speed instead becomes 1 until the end of your turn.
 
 * **Range**: The number of spaces away from your target or point of interaction you can be, ranging from 1-5. Your range is equal to your **PER**.
 
@@ -51,7 +51,7 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
 
 * **Analysis**: The number of times per combat you can ask the following questions on your turn. Your analysis is equal to your **INT**.
     * What is their remaining health?
-    * What is their combat strength and tags?
+    * What is their difficulty and tags?
     * What abilities do they have?
     * What is their speed and range?
     * What weaknesses do they have?
@@ -71,11 +71,11 @@ On your turn, you can take one main action, one move action, and as many extra a
 
 As a main action, you can do one of the following:
 - **Roll**: Attempt any kind of roll
-- **Dash**: Move up to your Speed
+- **Dash**: Move up to your speed
 - **Recover**: Recover a tag
 - **Ready**: Prepare a main action to perform at soon as a condition is met (for example, shoot the enemy as soon as they enter your line of sight)
 
-As a move action, you can move up to your Speed. You can split this movement up and perform it before or after your other actions.
+As a move action, you can move up to your speed. You can split this movement up and perform it before or after your other actions.
 
 As extra actions, you can take any of the above actions listed under **Tactics**, **Effects**, **Support**, **Analysis**, and **Reactions**, up to the maximum amount in each category determined by its corresponding stat. For example, with an Analysis of 4, you can only ask up to four questions from the list each combat.
 
@@ -83,11 +83,11 @@ After taking your turn, you gain the exhausted condition and are not eligible to
 
 ## Non-Player Combatants
 
-Enemies in tactical combat must have speed and range in addition to all normal statistics. They can also have one or more [abilities](#abilities). By default, enemies cannot take extra actions. However, whenever they fulfill the criteria for one or more Tactics, they gain one Difficulty for that roll for each.
+Enemies in tactical combat must have speed and range in addition to all normal statistics. They can also have one or more [abilities](#abilities). By default, enemies cannot take extra actions. However, whenever they fulfill the criteria for one or more Tactics, they gain one difficulty for that roll for each.
 
 In tactical combat, the GM gains an additional bane option: for one bane, they can move any combatant one space. When inflicting banes on a player, stress should ideally come from one of the enemy combatants in range, though not necessarily the target of the roll.
 
-NPC combatants have the same statistics as enemies. When attacking each other, the GM selects a tag for each, and whoever has the highest combat strength inflicts one damage on the other plus any fulfilled Tactics. Upon reaching zero HP, the GM can decide whether that NPC becomes OUT or dies.
+NPC combatants have the same statistics as enemies. When attacking each other, the GM selects a tag for each, and whoever has the highest difficulty inflicts one damage on the other. Upon reaching zero health, the GM can decide whether that NPC becomes OUT or dies.
 
 If a side sheet uses the standard stat system, the GM can choose to fill a combat sheet for them.
 
@@ -95,13 +95,13 @@ If a side sheet uses the standard stat system, the GM can choose to fill a comba
 
 When introducing a map, the GM can designate any of the following zones to the areas or objects depicted on the map:
 
-* **Difficult Terrain**: A space with difficult terrain costs an extra point of Speed to enter. For example, a muddy patch, a crowd of people, or a steep mountainside can all be difficult terrain.
+* **Difficult Terrain**: A space with difficult terrain costs an extra point of speed to enter. For example, a muddy patch, a crowd of people, or a steep mountainside can all be difficult terrain.
 
 * **Obstacle**: A space with an obstacle blocks line of sight and cannot be entered unless the GM makes an exception. For example, a wall, a pile of boxes, or a dining room table can all be obstacles.
 
 * **Hazard**: A space with a hazard causes one stress or damage whenever a combatant enters it or starts their turn in it. For example, a pit of fire, a spike trap, or a poisonous bog can all be hazards.
 
-Additionally, each tactical combat, the GM can decide to adjust the rules in any way to reflect the unique challenges of that combat. For example, in a tactical combat where heavy mist has overtaken the battlefield, the GM can decide that, for this combat, all combatants must reduce their Range by one, to a minimum of one.
+Additionally, each tactical combat, the GM can decide to adjust the rules in any way to reflect the unique challenges of that combat. For example, in a tactical combat where heavy mist has overtaken the battlefield, the GM can decide that, for this combat, all combatants must reduce their range by one, to a minimum of one.
 
 ## Abilities
 
