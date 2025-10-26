@@ -7,7 +7,7 @@ weight: 10
 
 When starting an action scene, the GM can decide to start a tactical combat, where each combatant is represented by a miniature on a square or hexagonal grid. Tactical combat offers players more ways to deal damage, so GMs can design enemies to be more challenging. All rules for rolling are the same.
 
-If using a square grid, you can move, face, and target orthogonally and diagonally. Miniatures must have a direction they are facing. If it’s not obvious which way the character is facing on the figure itself, please mark its base with a direction.
+If using a square grid, you can move and target orthogonally and diagonally. Miniatures must face an orthogonal direction. If it’s not obvious which way the character is facing on the figure itself, please mark its base with a direction.
 
 Regardless of the following rules, the narrative sense of the story comes first. For example, if a player cannot justify how they are making a ranged attack in the story, then they cannot do so.
 
@@ -31,8 +31,8 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
 * **Defense**: The base modifier for all your defensive rolls, plus any tags or drive, ranging from 2-6. Your defense is equal to your **TOU** + 1.
 
 * **Tactics**: The number of times per combat you can use the following extra actions on a failed or successful attack to deal damage. You cannot use the same tactic twice in the same attack. Your tactics are equal to your **PRO**.
-    * **Backstab**: If you are behind your target, deal one damage.
-    * **Corner**: If an ally or obstacle is directly behind your target, deal one damage.
+    * **Backstab**: If your target is facing directly away from you, deal one damage.
+    * **Corner**: If an ally or obstacle is adjacent to and directly behind your target, deal one damage.
     * **Charge**: If you use all your movement in a straight line, orthogonally or diagonally, to move adjacent to your target before attacking, deal one damage.
     * **Line Up**: If your target is at your maximum range before you move, deal one damage.
     * **High Ground**: If you have a clear height advantage, deal one damage.
