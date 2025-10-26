@@ -14,3 +14,11 @@ Optionally, you can describe how your character got this improvement. For exampl
 There is no monetary currency in this system, only experience points.
 
 If your character is one of the owners of a [side sheet]({{< relref "/optional-rules/side-sheets" >}}), you can also spend your experience points to upgrade the side sheet's tags.
+
+## Refund Tags
+
+With the GM's permission, you can refund any tag that no longer applies to your character. If you refund a tag, erase it from your sheet and gain experience equal to [how much that tag would have cost to gain]({{< relref "/reference#experience" >}}). For example, you can refund a 3✦ tag to gain 9 experience back.
+
+You can also partially refund a tag by downgrading its level. For example, you can downgrade a tag from 4✦ to 3✦ and gain 7 experience back.
+
+You can use tag refunding and downgrading to support the narrative of an evolving character. For example, if your character starts out as a `Scared Kid` but eventually becomes an `Experienced Soldier`, you can downgrade the former tag as your character becomes more experienced and eventually replace it with the latter tag.
