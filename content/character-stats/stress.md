@@ -13,9 +13,9 @@ When you take stress, mark out bubbles on the stress track from left to right eq
 
 If a character rests for an non-trivial period of time in a non-stressful and safe environment, such as in between sessions, they rest. The GM determines the quality of rest from the following list based on the story. For example, sleeping in a cold cavern with no sleeping bags might result in a short rest, while having a weekend-long vacation at a cozy inn might result in a full rest.
 
-- **Short Rest**: Gain six boons to spend on the Boons table on recovery options.
-- **Medium Rest**: Gain ten boons to spend on the Boons table on recovery options.
-- **Long Rest**: Gain fourteen boons to spend on the Boons table on recovery options.
+- **Short Rest**: Gain six boons to spend on recovery options from the Boons table.
+- **Medium Rest**: Gain ten boons to spend on recovery options from the Boons table.
+- **Long Rest**: Gain fourteen boons to spend on recovery options from the Boons table.
 - **Full Rest**: Clear all your stress and recover all your tags.
 
 ## Death
