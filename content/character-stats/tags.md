@@ -20,18 +20,3 @@ Once you exhaust a tag, you cannot benefit from its bonus again until it's recov
 A tag being exhausted does not remove its presence in your character or the narrative. For example, if you have the tag `Teleportation` and exhaust it, you can still teleport in the story while it is exhausted. You just can't benefit from the `Teleportation` tag when rolling to do so.
 
 If you have a tag with access to endless creative options, such as `Wizard`, then you cannot use that tag to cast any spell imaginable, for example. Instead, the GM reserves the right to demand that you spend experience to create a new tag for each unique ability or spell that your character has access to.
-
-### Help Creating Tags
-
-If you're having difficulty creating tags for your character, answer questions from the following list to come up with ideas:
-
-- What does your character want?
-- What does your character need?
-- What makes your character likeable or admirable?
-- What makes your character unlikeable or difficult?
-- What can your character do better than anyone else?
-- How does your character usually solve problems?
-- In a critical moment, what ability can your character use to get out of trouble?
-- When fighting, how does your character attack or defend?
-- Does your character have any tools of the trade, or valuables important to them?
-- How is your character different from the others at the table?

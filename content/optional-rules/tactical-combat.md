@@ -11,6 +11,13 @@ If using a square grid, you can move, face, and target orthogonally and diagonal
 
 Regardless of the following rules, the narrative sense of the story comes first. For example, if a player cannot justify how they are making a ranged attack in the story, then they cannot do so.
 
+This page has the following sections:
+- [Combat Sheet](#combat-sheet)
+- [Turn Actions](#turn-actions)
+- [Non-Player Combatants](#non-player-combatants)
+- [Maps and Special Rules](#maps-and-special-rules)
+- [Abilities](#abilities)
+
 ## Combat Sheet
 
 Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out with the following information:
@@ -109,7 +116,7 @@ A herbalist witch might have the following abilities:
 * **Vengeful Hex**: You should know better than to mess with a witch. Once per combat, when an enemy deals stress to you, you can hex it to deal one damage to it, regardless of range.
 
 A combat medic might have the following abilities:
-* **Miracle Worker**: You’ve brought your friends back from the brink of death. Once per combat, on your turn, you can recover one stress for an adjacent OUT ally. They are no longer OUT.
+* **Miracle Worker**: You’ve brought your friends back from the brink of death. Gain +1 support. Once per combat, on your turn, you can recover one stress for an adjacent OUT ally. They are no longer OUT.
 * **Combat Gurney**: You know how to get someone out of trouble (or into it). When you move, you can drag a willing ally adjacent to the space you were just in into that space.
 
 An arcane artist might have the following abilities:
