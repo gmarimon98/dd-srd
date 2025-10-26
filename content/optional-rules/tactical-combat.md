@@ -39,7 +39,7 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
 
 * **Effects**: The number of times per combat you can use the following extra actions on a failed or successful attack to affect the enemy. Your effects are equal to your special stat.
     * **Move**: Move the target one space in any direction. Once per turn, if you move the target into an obstacle or another combatant, instead deal one damage to both.
-    * **Splash**: Deal the base amount of damage to all targets adjacent to your target.
+    * **Splash**: Deal the base amount of damage to all targets adjacent to your target, excluding yourself.
     * **Weaken**: Reduce the star rating of the target’s strongest tag by 1✦ for the rest of combat.
     * **Hinder**: Reduce the target’s speed or range to one until the end of its next turn.
     * **Stun**: The target can’t take the next enemy turn, unless no other options remain.
