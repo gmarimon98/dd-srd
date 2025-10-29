@@ -42,7 +42,7 @@ X boons  | Gain a story reward
 **Cost** | **Effect**
 ---------|------------
 1 bane   | Inflict stress
-2 banes  | Add tension
+2 banes  | Build tension
 X banes  | Complicate the story
 
 ## Experience

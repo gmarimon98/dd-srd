@@ -12,7 +12,7 @@
       <link>http://localhost:1313/optional-rules/modifiers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/optional-rules/modifiers/</guid>
-      <description>&lt;h1 id=&#34;modifiers&#34;&gt;Modifiers&lt;/h1&gt;&#xA;&lt;p&gt;The GM can incorporate any of the following rules adjustments to suit their campaign:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Death Roll&lt;/strong&gt;: When a character would become OUT in a context where they might die, the GM can call for a death roll. The player must roll a D20 with no bonus. If they roll a 1, their character dies. If they roll a 20, they recover one stress. If they roll anything else, they become OUT normally.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;modifiers&#34;&gt;Modifiers&lt;/h1&gt;&#xA;&lt;p&gt;The GM can incorporate any of the following rules adjustments to suit their campaign:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Death Roll&lt;/strong&gt;: When a character would become OUT in a context where they might die, the GM can call for a death roll. The player must roll a D20 with no bonus. If they roll a 1 or a 2, their character dies. If they roll a 19 or a 20, they recover one stress. If they roll anything else, they become OUT normally.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Side Sheets</title>
@@ -26,7 +26,7 @@
       <link>http://localhost:1313/optional-rules/tactical-combat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/optional-rules/tactical-combat/</guid>
-      <description>&lt;h1 id=&#34;tactical-combat&#34;&gt;Tactical Combat&lt;/h1&gt;&#xA;&lt;p&gt;When starting an action scene, the GM can decide to start a tactical combat, where each combatant is represented by a miniature on a square or hexagonal grid. Tactical combat offers players more ways to deal damage, so GMs can design enemies to be more challenging. All rules for rolling are the same.&lt;/p&gt;&#xA;&lt;p&gt;If using a square grid, you can move, face, and target orthogonally and diagonally. Miniatures must have a direction they are facing. If it’s not obvious which way the character is facing on the figure itself, please mark its base with a direction.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;tactical-combat&#34;&gt;Tactical Combat&lt;/h1&gt;&#xA;&lt;p&gt;When starting an action scene, the GM can decide to start a tactical combat, where each combatant is represented by a miniature on a square or hexagonal grid. Tactical combat offers players more ways to deal damage, so GMs can design enemies to be more challenging. All rules for rolling are the same.&lt;/p&gt;&#xA;&lt;p&gt;If using a square grid, you can move and target orthogonally and diagonally. Miniatures must face an orthogonal direction. If it’s not obvious which way the character is facing on the figure itself, please mark its base with a direction.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

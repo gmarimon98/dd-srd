@@ -13,7 +13,7 @@ When selecting boons or banes, the target of the effect does not need to be the 
 
 ## Tension
 
-As a bane, the GM can choose to add one or more points of tension to the session. You can represent tension with any kind of tokens clearly visible at the center of the play area. At any point, the GM can spend any amount of tension to inflict the same amount of banes. Tension is preserved between sessions.
+As a bane, the GM can choose to build one or more points of tension to the session. You can represent tension with any kind of tokens clearly visible at the center of the play area. At any point, the GM can spend any amount of tension to inflict the same amount of banes. Tension is preserved between sessions.
 
 ## Story Rewards and Complications
 
