@@ -12,7 +12,7 @@ GMs running Double Down should keep the following system-specific advice in mind
 When determining roll difficulty, use the following guide:
 
 - Easy rolls (difficulty 10 to 12) can be reliably accomplished by the average character.
-- Medium rolls (difficulty 13 to 15) are tougher for the average character but simple for a specialized character.
+- Medium rolls (difficulty 13 to 15) are tougher for the average character but routine for a specialized character.
 - Hard rolls (difficulty 16 to 18) require expertise or a lot of luck to succeed at.
 - Expert rolls (difficulty 19 to 21) are difficult even for a specialized character.
 - Impossible rolls (difficulty 22+) are extremely unlikely to succeed, regardless of who is attempting it.
