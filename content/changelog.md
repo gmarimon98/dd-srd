@@ -7,6 +7,11 @@ weight: 12
 
 Double Down has gone through the following rules and balance changes.
 
+## 30 October 2025
+- Added a guide on running the game
+- Added contested rolls
+- Added more modifiers
+
 ## 25 October 2025
 - Expanded critical results to 2 and 19
 - Added support rolls

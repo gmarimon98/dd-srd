@@ -50,6 +50,12 @@ For example, if players are collaborating to lift a heavy object, then one chara
 
 The group votes on whether to double down, with the roller breaking ties. Only the roller gains drive on a failure.
 
+## Contested Rolls
+
+If a player makes an attempt against another player, such as when trying to pickpocket them or tell if they are lying, the GM first offers the target player a choice. The target player can either allow the attempting player to automatically succeed, make them automatically fail, or let them roll to leave it up to chance.
+
+If the target chooses to roll, then each player simultaneously chooses whether to exhaust a tag or spend drive. The target player adds 10 to their total modifier, forming the difficulty for the attempting player. The attempting player then rolls normally. The GM can choose to ignore any number of banes incurred during contested rolls.
+
 ---
 
 ## Example Roll
