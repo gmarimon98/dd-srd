@@ -41,7 +41,7 @@ By default, players receive 5 experience points per session, and play is more re
 
 - For a slow rate of advancement, give an average extra 1-2 experience per session.
 - For a normal rate of advancement, give an average extra 3-4 experience per session.
-- For a fast rate of advancement, give an average extra 5 or more experience per session.
+- For a fast rate of advancement, give an average extra 5-6 experience per session.
 
 This results in campaigns that last a maximum of around 18 to 30 sessions. 
 
