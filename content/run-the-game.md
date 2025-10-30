@@ -35,7 +35,7 @@ Sometimes, rolls will result in more banes than is dramatically appropriate at t
 
 Regardless of drama, the players' immersion in the story relies on the consequences of their actions being felt. Going easy on them breaks immersion and ruins the game's challenge. So, you should ultimately pick the bane option that makes the most sense to you in a challenging world.
 
-## Distributing Experience
+## Distribute Experience
 
 By default, players receive 5 experience points per session, and play is more rewarding when they receive additional experience as a reward for completing objectives and roleplaying well. When determining how much additional experience to give out, use the following guide:
 
