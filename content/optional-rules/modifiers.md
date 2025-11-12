@@ -9,7 +9,7 @@ The GM can incorporate any of the following rules adjustments to suit their camp
 
 * **Death Roll**: When a character would become OUT in a context where they might die, the GM can call for a death roll. The player must roll a D20 with no bonus. If they roll a 1 or a 2, their character dies. If they roll a 19 or a 20, they recover one stress. If they roll anything else, they become OUT normally.
 
-* **Random Stats**: When creating a character, instead of assigning stats normally, instead roll 1D10 for each stat in order and divide each result by two, rounding up.
+* **Random Stats**: When creating a character, instead of assigning stats normally, roll 1D10 for each stat in order and divide each result by two, rounding up.
 
 * **Player Weakness**: When creating a character, you must create a number of weaknesses determined by your GM (usually 1 or 2). Write them down in unused tag slots. When those weaknesses are invoked during a roll, increase the difficulty by one for each.
 
