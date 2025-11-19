@@ -26,9 +26,9 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
 
 * **Range**: The number of spaces away from your target or point of interaction you can be, ranging from 1-5. Your range is equal to your **PER**.
 
-* **Attack**: The base modifier for all your offensive rolls, plus any tags or drive, ranging from 2-6. Your attack is equal to your **COM** + 1.
+* **Attack**: The base modifier for all your offensive rolls, plus any tags or drive, ranging from 1-5. Your attack is equal to your **COM**.
 
-* **Defense**: The base modifier for all your defensive rolls, plus any tags or drive, ranging from 2-6. Your defense is equal to your **TOU** + 1.
+* **Defense**: The base modifier for all your defensive rolls, plus any tags or drive, ranging from 1-5. Your defense is equal to your **TOU**.
 
 * **Tactics**: The number of times per combat you can use the following extra actions on a failed or successful attack to deal damage. You cannot use the same tactic twice in the same attack. Your tactics are equal to your **PRO**.
     * **Backstab**: If your target is facing directly away from you, deal one damage.
