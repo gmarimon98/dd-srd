@@ -44,3 +44,13 @@ By default, players receive 5 experience points per session, and play is more re
 This results in campaigns that last a maximum of around 18 to 30 sessions. While players can technically play until they upgrade all their available tags to 5✦, it's unlikely they will make enough rolls in between rests for it to make a difference.
 
 To fine tune maximum campaign length, assume that it takes a conversative 180 experience points for characters to stop being able to meaningfully progress, and divide 180 by your desired maximum campaign length, resulting in the average amount of experience players should receive per session. For longer campaigns, this may require that you lower the base experience gain from 5 experience to 2 or 3 experience. However, part of the design is to let players upgrade the tag of their choice at least every 1 to 2 sessions, so lowering base experience gain may create a less satisfying player experience.
+
+## Balance Combat
+
+When designing combat encounters, you may want to balance the enemies' statblocks to create a challenging and rewarding experience. To do this, first calculate the encounter's challenge allowance by multiplying the number of participating player characters by two for an easy encounter, three for a medium encounter, four for a hard encounter, five for an expert encounter, or six for an impossible encounter. For example, a hard encounter for three characters has an allowance of 12.
+
+Then, calculate the challenge rating of each enemy by multiplying the banes for its average difficulty times its health total. For example, an enemy goblin archer with an average difficulty of 15 incurs 2 banes on a failure, so if it has two health, then its challenge rating is 4.
+
+Finally, you can add any number of enemies to the encounter with a total challenge rating approximately equal to its allowance. For example, three of the above goblin archers would have a total challenge rating of 12, creating a hard challenge for three characters.
+
+In tactical combat, because players have more ways to deal damage, enemies can have double the amount of health while still providing the same level of challenge.
