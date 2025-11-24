@@ -11,7 +11,7 @@ If awarding a tag to one or more players, other players receive experience equal
 
 You can spend experience at any time with GM approval, even outside a session or right before a roll, to gain new tags or upgrade existing ones. For a full list of progression options, see the [**Experience Table**]({{< relref "/reference#experience" >}}).
 
-Acquired tags must fit within the story and setting. For example, if you are playing a traditional medieval fantasy game, the GM can prevent you from getting an `Alien Plasma Rifle` tag. If you want to gain a `Scroll of Teleportation` tag, you must first find the opportunity to acquire such an item in the story, for example by finding it in a dungeon or visiting a shop that has it in stock and spending the experience there. If you want to gain access to a specific new tag, consider letting your GM know so they can give you the opportunity to acquire it in the story.
+Spending experience must fit within the story and setting. For example, if you are playing a traditional medieval fantasy game, the GM can prevent you from getting an `Alien Plasma Rifle`. If you want to gain a `Scroll of Teleportation`, you must first find the opportunity to acquire such an item in the story, for example by finding it in a dungeon or visiting a shop that has it in stock and spending the experience there. If you want to gain access to a specific new tag, consider letting your GM know so they can give you the opportunity to acquire it in the story.
 
 There is no monetary currency in this system, only experience points.
 
