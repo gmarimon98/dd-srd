@@ -7,7 +7,7 @@ weight: 8
 
 At the end of each session, you gain 5 experience points. GMs can grant additional experience points or tags to all players as they see fit as a reward for accomplishing objectives in the campaign, acquiring wealth, or roleplaying well. If the GM awards additional experience points in this way, all players gain them.
 
-If awarding a tag to one or more players, other players receive experience equal to the value of that tag. For example, if a player receives a 2✦ `Sword`, other players receive 3 experience.
+If awarding a tag to one or more players, other players receive experience equal to the value of that tag. For example, if a player receives a 2✦ `Cloak of Flying`, other players receive 3 experience.
 
 You can spend experience at any time with GM approval, even outside a session or right before a roll, to gain new tags or upgrade existing ones. For a full list of progression options, see the [**Experience Table**]({{< relref "/reference#experience" >}}).
 
