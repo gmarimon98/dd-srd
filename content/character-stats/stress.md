@@ -21,6 +21,6 @@ If a character rests for an non-trivial period of time in a non-stressful and sa
 
 ## Death
 
-Your character cannot die unless you choose for them to. If you choose for your character to die, they can accomplish any one task they are technically capable of in the moment, automatically succeeding at any rolls required, as long as the Game Master approves. For example, if a dragon is about to destroy your character's home village and all hope is lost, you can choose to kill your character in order to charge into combat and kill the dragon before it causes any damage. If the GM approves, it happens and your character dies.
+Your character cannot die unless you choose for them to. If you choose for your character to die, they can accomplish any one task they are technically capable of in the moment, automatically succeeding at any rolls required, as long as the GM approves. For example, if a dragon is about to destroy your character's home village and all hope is lost, you can choose to kill your character in order to charge into combat and kill the dragon before it causes any damage. If the GM approves, it happens and your character dies.
 
 If your character dies, you can create a new character for the GM to incorporate into the story whenever they can, beginning with an amount of experience roughly equal to the amount your old character gained.

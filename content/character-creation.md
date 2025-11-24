@@ -23,4 +23,6 @@ To create a character, first brainstorm character concepts that suit the tone an
 
     - Tags can represent special powers or moves your character can use. For example, `Fireball`, `Deduction`, `Telekinesis`, `Necromancy`, `Wrestling`, and `Biology`.
 
+    - The GM can require that one or more of your tags fit into categories of their choice based on the campaign. For example, in a traditional medieval fantasy game, the GM might require that you have one tag for your species (for example, `Orc` or `Halfling`), one for your class (for example, `Magic User` or `Acrobat`), and one for your background (for example, `Mercenary` or `Farmer`).
+
 If your GM approves of your character sheet, your character is done and now ready to play. All other fields (experience, stress, and drive) start out blank.
