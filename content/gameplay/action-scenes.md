@@ -19,7 +19,7 @@ Combat is a type of action scene where the players fight enemies. Enemies have t
 - A difficulty, ranging from 10 to 25
 - A health value, ranging from 1 to around 10
 - A list of tags, each with a star value ranging from 1✦ to 5✦
-- A weakness, which if invoked in the roll, causes successful combat rolls to deal one extra damage
+- Optionally, one or more weaknesses which, if invoked in the roll, cause successful combat rolls to deal one extra damage
 
 For example, the following is an enemy:
 
@@ -32,8 +32,6 @@ For example, the following is an enemy:
     - `Flying` 3✦
     - `Hardy Scales` 3✦
     - `Tail Swipe` 2✦
-    - `Snapping Jaws` 1✦
-    - `Razor Claws` 1✦
 
 When attacking an enemy, make a roll against their difficulty plus an additional tag of the GM’s choice. An enemy’s tags are not exhausted after use. Instead, the enemy cannot use that same tag again until they have used all other tags at least once. If the roll is successful, the player applies damage to the enemy’s health based on the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}).
 

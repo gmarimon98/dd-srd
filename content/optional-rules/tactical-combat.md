@@ -11,13 +11,6 @@ If using a square grid, you can move and target orthogonally and diagonally. Min
 
 Regardless of the following rules, the narrative sense of the story comes first. For example, if a player cannot justify how they are making a ranged attack in the story, then they cannot do so.
 
-This page has the following sections:
-- [Combat Sheet](#combat-sheet)
-- [Turn Actions](#turn-actions)
-- [Non-Player Combatants](#non-player-combatants)
-- [Maps and Special Rules](#maps-and-special-rules)
-- [Abilities](#abilities)
-
 ## Combat Sheet
 
 Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out with the following information:
@@ -70,10 +63,9 @@ Your GM can grant you one or more **Abilities**, which give you additional optio
 On your turn, you can take one main action, one move action, and as many extra actions as you can:
 
 As a main action, you can do one of the following:
-- **Roll**: Attempt any kind of roll
-- **Dash**: Move up to your speed
-- **Recover**: Recover a tag
-- **Ready**: Prepare a main action to perform at soon as a condition is met (for example, shoot the enemy as soon as they enter your line of sight)
+- **Roll**: Attempt any kind of roll.
+- **Dash**: Move up to your speed.
+- **Ready**: Prepare a main action to perform at soon as a condition is met (for example, shoot the enemy as soon as they enter your line of sight).
 
 As a move action, you can move up to your speed. You can split this movement up and perform it before or after your other actions.
 
@@ -89,7 +81,7 @@ In tactical combat, the GM gains an additional bane option: for one bane, they c
 
 NPC combatants have the same statistics as enemies. When attacking each other, the GM selects a tag for each, and whoever has the highest difficulty inflicts one damage on the other. Upon reaching zero health, the GM can decide whether that NPC becomes OUT or dies.
 
-If a side sheet uses the standard stat system, the GM can choose to fill a combat sheet for them.
+If a side sheet uses the standard stat system, the GM can choose to fill a combat sheet for it.
 
 ## Maps and Special Rules
 
@@ -97,7 +89,7 @@ When introducing a map, the GM can designate any of the following zones to the a
 
 * **Difficult Terrain**: A space with difficult terrain costs an extra point of speed to enter. For example, a muddy patch, a crowd of people, or a steep mountainside can all be difficult terrain.
 
-* **Obstacle**: A space with an obstacle blocks line of sight and cannot be entered unless the GM makes an exception. For example, a wall, a pile of boxes, or a dining room table can all be obstacles.
+* **Obstacle**: A space with an obstacle cannot be entered and optionally also blocks line of sight unless the GM makes an exception. For example, a wall, a pile of boxes, or a dining room table can all be obstacles.
 
 * **Hazard**: A space with a hazard causes one stress or damage whenever a combatant enters it or starts their turn in it. For example, a pit of fire, a spike trap, or a poisonous bog can all be hazards.
 
@@ -107,13 +99,17 @@ Additionally, each tactical combat, the GM can decide to adjust the rules in any
 
 The GM can give players and other combatants one or more abilities that grant special bonuses or rules in tactical combat. The following are thematic example abilities for a medieval fantasy campaign.
 
-A gunslinging rogue might have the following abilities:
-* **Deadeye**: No target is too far. When making a ranged attack, you can increase your range by one or two.
-* **Into the Shadows**: You’re hard to pin down. Once per combat, on your turn, you can enter stealth to become invisible and untargetable by enemies until the start of your next turn.
+A barbarian might have the following abilities:
+* **Rage**: Now you’ve made me angry. Once per combat, when you take stress, you can enter a rage to gain +2 attack for the rest of combat.
+* **Knockback**: Your blows send tremors through the ground. Whenever you deal damage to an enemy, you can move them one or two spaces directly away from you. Once per turn, if you move the enemy into an obstacle or another combatant, instead deal one damage to both.
 
 A herbalist witch might have the following abilities:
 * **Potion Seller**: You keep your party well-stocked with potions. Gain +1 support. When you support an ally, you can spend their support in addition to your own.
 * **Vengeful Hex**: You should know better than to mess with a witch. Once per combat, when an enemy deals stress to you, you can hex it to deal one damage to it, regardless of range.
+
+A crossbow-wielding rogue might have the following abilities:
+* **Deadeye**: No target is too far. When making a ranged attack, you can increase your range by one or two.
+* **Into the Shadows**: You’re hard to pin down. Once per combat, on your turn, you can enter stealth to become invisible and untargetable by enemies until the start of your next turn.
 
 A combat medic might have the following abilities:
 * **Miracle Worker**: You’ve brought your friends back from the brink of death. Gain +1 support. Once per combat, on your turn, you can recover one stress for an adjacent OUT ally. They are no longer OUT.
@@ -122,7 +118,3 @@ A combat medic might have the following abilities:
 An arcane artist might have the following abilities:
 * **Runic Tattoo**: Your rune glows with power. Once per combat, on your turn, you can mark a target ally with a powerful tattoo to grant them +1 attack and +1 defense for the rest of combat.
 * **Still Life**: Your art is so realistic it leaps off the page. Twice per combat, on your turn, you can place down an illustrated piece of terrain that functions as an obstacle. Any combatant can spend their main action to remove it.
-
-A barbarian might have the following abilities:
-* **Knockback**: Your blows send tremors through the ground. Whenever you deal damage to an enemy, you can move them one or two spaces directly away from you. Once per turn, if you move the enemy into an obstacle or another combatant, instead deal one damage to both.
-* **Rage**: Now you’ve made me angry. Once per combat, when you take stress, you can enter a rage to gain +2 attack for the rest of combat.
