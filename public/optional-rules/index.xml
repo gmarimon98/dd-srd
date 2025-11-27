@@ -22,11 +22,11 @@
       <description>&lt;h1 id=&#34;side-sheets&#34;&gt;Side Sheets&lt;/h1&gt;&#xA;&lt;p&gt;If the narrative includes an entity such as a character, pet, sidekick, or organization that is important enough to warrant its own character sheet, then the GM can choose to create a side sheet for that character.&lt;/p&gt;&#xA;&lt;p&gt;As the GM, download or print a &lt;a href=&#34;http://localhost:1313/downloads/&#34;&gt;side sheet&lt;/a&gt; and fill it out with the following information:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Name&lt;/strong&gt;: The entity&amp;rsquo;s name&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Owners&lt;/strong&gt;: The list of player characters that can make rolls through this side sheet&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stats&lt;/strong&gt;: The list of stats, which could follow the standard rules of character creation or whatever the GM decides&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: The list of tags, which could follow the standard rules of character creation or whatever the GM decides&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Side sheets do not have experience, drive, or stress. The side sheet&amp;rsquo;s owners can control the entity, roleplay as it, decide its actions, and make rolls through it.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tactical Combat</title>
-      <link>http://localhost:1313/optional-rules/tactical-combat/</link>
+      <title>Grid Combat</title>
+      <link>http://localhost:1313/optional-rules/grid-combat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/optional-rules/tactical-combat/</guid>
-      <description>&lt;h1 id=&#34;tactical-combat&#34;&gt;Tactical Combat&lt;/h1&gt;&#xA;&lt;p&gt;When starting an action scene, the GM can decide to start a tactical combat, where each combatant is represented by a miniature on a square or hexagonal grid. Tactical combat offers players more ways to deal damage, so GMs can design enemies to be more challenging. All rules for rolling are the same.&lt;/p&gt;&#xA;&lt;p&gt;If using a square grid, you can move and target orthogonally and diagonally. Miniatures must face an orthogonal direction. If it’s not obvious which way the character is facing on the figure itself, please mark its base with a direction.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/optional-rules/grid-combat/</guid>
+      <description>&lt;h1 id=&#34;grid-combat&#34;&gt;Grid Combat&lt;/h1&gt;&#xA;&lt;p&gt;When starting an action scene, the GM can decide to start a grid combat, where each combatant is represented by a miniature on a square or hexagonal grid. Grid combat offers players more ways to deal damage, so GMs can design enemies to be more challenging. All rules for rolling are the same.&lt;/p&gt;&#xA;&lt;p&gt;If using a square grid, you can move and target orthogonally and diagonally. Miniatures must face an orthogonal direction. If it’s not obvious which way the character is facing on the figure itself, please mark its base with a direction.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

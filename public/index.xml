@@ -93,9 +93,9 @@
     </item>
     <item>
       <title>Grid Combat</title>
-      <link>http://localhost:1313/optional-rules/tactical-combat/</link>
+      <link>http://localhost:1313/optional-rules/grid-combat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/optional-rules/tactical-combat/</guid>
+      <guid>http://localhost:1313/optional-rules/grid-combat/</guid>
       <description>&lt;h1 id=&#34;grid-combat&#34;&gt;Grid Combat&lt;/h1&gt;&#xA;&lt;p&gt;When starting an action scene, the GM can decide to start a grid combat, where each combatant is represented by a miniature on a square or hexagonal grid. Grid combat offers players more ways to deal damage, so GMs can design enemies to be more challenging. All rules for rolling are the same.&lt;/p&gt;&#xA;&lt;p&gt;If using a square grid, you can move and target orthogonally and diagonally. Miniatures must face an orthogonal direction. If it’s not obvious which way the character is facing on the figure itself, please mark its base with a direction.&lt;/p&gt;</description>
     </item>
     <item>
