@@ -27,7 +27,7 @@ A side sheet's owners can spend their own experience points to upgrade its tags.
 
 ---
 
-## Example Side Sheet and Roll
+## Example Side Sheet
 
 In this example campaign, the player characters are spies belonging to an organization called Ares Intelligence, which they can radio for support during missions. Instead of all the characters simply having a tag called `Ares Intelligence`, the GM decides that the organization warrants its own side sheet.
 

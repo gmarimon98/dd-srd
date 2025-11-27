@@ -53,4 +53,4 @@ Then, calculate the challenge rating of each enemy by multiplying the banes for 
 
 Finally, you can add any number of enemies to the encounter with a total challenge rating approximately equal to its allowance. For example, three of the above goblin archers would have a total challenge rating of 12, creating a hard challenge for three characters.
 
-In tactical combat, because players have more ways to deal damage, enemies can have double the amount of health while still providing the same level of challenge.
+In [grid combat]({{< relref "/optional-rules/grid-combat" >}}), because players have more ways to deal damage, enemies can have double the amount of health while still providing the same level of challenge.
