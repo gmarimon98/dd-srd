@@ -58,22 +58,22 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
 
 Your GM can grant you one or more **Abilities**, which give you additional options and bonuses in combat, at different points in the campaign.
 
-## Turn Actions
+## On Your Turn
 
 On your turn, you can take one main action, one move action, and as many extra actions as you can:
 
 As a main action, you can do one of the following:
 - **Roll**: Attempt any kind of roll.
-- **Dash**: Move up to your speed.
-- **Ready**: Prepare a main action to perform at soon as a condition is met (for example, shoot the enemy as soon as they enter your line of sight).
+- **Dash**: Move up to your speed. You can split this movement up and perform it before or after your other actions.
+- **Ready**: Prepare a main action to perform at soon as a condition is met (for example, shoot the enemy as soon as they enter your range).
 
 As a move action, you can move up to your speed. You can split this movement up and perform it before or after your other actions.
 
-As extra actions, you can take any of the above actions listed under **Tactics**, **Effects**, **Support**, **Analysis**, and **Reactions**, up to the maximum amount in each category determined by its corresponding stat. For example, with an Analysis of 4, you can only ask up to four questions from the list each combat.
+As extra actions, you can take any of the above actions listed under **Tactics**, **Effects**, **Support**, and **Analysis**, up to the maximum amount in each category determined by its corresponding stat. For example, with an Analysis of 4, you can only ask up to four questions from the list each combat. Unlike other extra actions, you can use **Reactions** outside of your turn when the action's condition applies.
 
 After taking your turn, you gain the exhausted condition and are not eligible to take another turn. Once every member of a side is exhausted, remove the exhausted condition from them.
 
-## Non-Player Combatants
+## Enemies and NPCs
 
 Enemies in grid combat must have speed and range in addition to all normal statistics. They can also have one or more [abilities](#abilities). By default, enemies cannot take extra actions. However, whenever they fulfill the criteria for one or more Tactics, they gain one difficulty for that roll for each.
 
@@ -83,7 +83,7 @@ NPC combatants have the same statistics as enemies. When attacking each other, t
 
 If a side sheet uses the standard stat system, the GM can choose to fill a combat sheet for it.
 
-## Maps and Special Rules
+## Maps
 
 When introducing a map, the GM can designate any of the following zones to the areas or objects depicted on the map:
 
@@ -97,24 +97,18 @@ Additionally, each grid combat, the GM can decide to adjust the rules in any way
 
 ## Abilities
 
-The GM can give players and other combatants one or more abilities that grant special bonuses or rules in grid combat. The following are thematic example abilities for a medieval fantasy campaign.
+The GM can give players and other combatants one or more abilities that grant special bonuses or rules in grid combat. The following are thematic example abilities for a medieval fantasy campaign:
 
-A barbarian might have the following abilities:
 * **Rage**: Now you’ve made me angry. Once per combat, when you take stress, you can enter a rage to gain +2 attack for the rest of combat.
 * **Knockback**: Your blows send tremors through the ground. Whenever you deal damage to an enemy, you can move them one or two spaces directly away from you. Once per turn, if you move the enemy into an obstacle or another combatant, instead deal one damage to both.
-
-A herbalist witch might have the following abilities:
 * **Potion Seller**: You keep your party well-stocked with potions. Gain +1 support. When you support an ally, you can spend their support in addition to your own.
 * **Vengeful Hex**: You should know better than to mess with a witch. Once per combat, when an enemy deals stress to you, you can hex it to deal one damage to it, regardless of range.
-
-A crossbow-wielding rogue might have the following abilities:
 * **Deadeye**: No target is too far. When making a ranged attack, you can increase your range by one or two.
 * **Into the Shadows**: You’re hard to pin down. Once per combat, on your turn, you can enter stealth to become invisible and untargetable by enemies until the start of your next turn.
-
-A combat medic might have the following abilities:
 * **Miracle Worker**: You’ve brought your friends back from the brink of death. Gain +1 support. Once per combat, on your turn, you can recover one stress for an adjacent OUT ally. They are no longer OUT.
 * **Combat Gurney**: You know how to get someone out of trouble (or into it). When you move, you can drag a willing ally adjacent to the space you were just in into that space.
-
-An arcane artist might have the following abilities:
 * **Runic Tattoo**: Your rune glows with power. Once per combat, on your turn, you can mark a target ally with a powerful tattoo to grant them +1 attack and +1 defense for the rest of combat.
 * **Still Life**: Your art is so realistic it leaps off the page. Twice per combat, on your turn, you can place down an illustrated piece of terrain that functions as an obstacle. Any combatant can spend their main action to remove it.
+* **Flying**: You can ignore terrain on the ground.
+* **Explosive End**: When you become OUT, you deal one stress or damage to each combatant adjacent to you.
+
