@@ -37,9 +37,7 @@ Then, the GM designs the following stats and gives them to the side sheet:
 
 * **Intel (INT)** 5✦
 * **Politics (POL)** 4✦
-* **Weaponry (WEA)** 4✦
 * **Contacts (CON)** 3✦
-* **Technology (TEC)** 2✦
 * **Resources (RES)** 2✦
 * **Transport (TRA)** 1✦
 
