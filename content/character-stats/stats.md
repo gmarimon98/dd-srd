@@ -16,4 +16,4 @@ Double Down has the following default stats:
 - **Toughness (TOU)**: Represents how physically strong and resilient you are. Used to defend from certain attacks, lift heavy objects, and wrestle.
 - **Wisdom (WIS)**: Represents how attuned you are to others. Used to gain insight into someone else and heal or support them, or interact with animals.
 
-One of the nine stats is an intentionally blank field. The GM can determine what this stat is to accommodate the setting. Ask the GM what stat they have selected and write it on the blank stat field on your sheet. Example special stats include Luck, Magic, Psionics, Sanity, etc.
+One of the nine stats is the special stat – an intentionally blank field. The GM can optionally determine what this stat is to accommodate the setting. Ask the GM if they they have selected a special stat and, if so, write it on the blank stat field on your sheet. If using the special stat, select three stats to have 3✦ instead of two. Example special stats include Magic, Psionics, Luck, Sanity, Monster Training, Humanity, etc.

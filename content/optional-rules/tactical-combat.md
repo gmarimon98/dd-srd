@@ -30,7 +30,7 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
     * **Line Up**: If your target is at your maximum range before you move, deal one damage.
     * **High Ground**: If you have a clear height advantage, deal one damage.
 
-* **Effects**: The number of times per combat you can use the following extra actions on a failed or successful attack to affect the enemy. Your effects are equal to your special stat.
+* **Effects**: The number of times per combat you can use the following extra actions on a failed or successful attack to affect the enemy. Your effects are equal to your special stat. If not using a special stat, use three by default.
     * **Move**: Move the target one space in any direction. Once per turn, if you move the target into an obstacle or another combatant, instead deal one damage to both.
     * **Splash**: Deal the base amount of damage to all targets adjacent to your target, excluding yourself.
     * **Weaken**: Reduce the star rating of the target’s strongest tag by 1✦ for the rest of combat.
