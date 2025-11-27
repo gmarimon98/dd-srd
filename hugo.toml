@@ -4,7 +4,7 @@ title = 'DD20 SRD'
 theme = 'hugo-book'
 [params]
 BookTheme = 'dark'
-BookToC = true
+BookToC = false
 BookSection = '*'
 BookSearch = false
 [markup.goldmark.renderer]
