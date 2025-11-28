@@ -13,4 +13,4 @@ The following files are available for download:
 - [Side Sheet (PDF)](https://1drv.ms/b/c/391fe1ecd2a3c6fc/EVgK_ex9a75Mpy8d0rZU_koBg_h-bc-WmGGiq0slFWjGyQ?e=OJErep)
 - Combat Sheet (WIP)
 
-If you create any alternative character or reference sheets that you think others might enjoy, feel free to send them to doubledown.rpg@gmail.com with written permission and I might upload them to this page. 🤍
+If you create any alternative character or reference sheets that you think others might enjoy, feel free to send them to gabriel@naiboa.com with written permission and I might upload them to this page. 🤍
