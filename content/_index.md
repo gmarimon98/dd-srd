@@ -1,6 +1,6 @@
 ---
 title: Double Down
-description: Double Down
+description: A rules-light, generic D20 TTRPG system geared toward roleplaying, featuring a core push-your-luck mechanic.
 weight: 1
 ---
 
