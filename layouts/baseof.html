@@ -11,9 +11,6 @@
     {{ template "menu-container" . }} <!-- Left menu -->
 
     <div class="book-page">
-      <header class="book-header hidden">
-      </header>
-
       {{ partial "docs/inject/content-before" . }}
       {{ template "main" . }} <!-- Page Content -->
       {{ partial "docs/inject/content-after" . }}
