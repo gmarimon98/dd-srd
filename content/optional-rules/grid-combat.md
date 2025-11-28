@@ -35,7 +35,7 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
     * **Splash**: Deal the base amount of damage to all targets adjacent to your target, excluding yourself.
     * **Weaken**: Reduce the star rating of the target’s strongest tag by 1✦ for the rest of combat.
     * **Hinder**: Reduce the target’s speed or range to one until the end of its next turn.
-    * **Stun**: The target can’t take the next enemy turn, unless no other options remain.
+    * **Stun**: The target must take its turn last for its side. If multiple targets are stunned, players choose which goes first.
 
 * **Support**: The number of times per combat you can use the following extra actions on your turn. Your support is equal to your **WIS**.
     * **Heal**: Recover one of the target’s stress.
@@ -70,8 +70,6 @@ As a main action, you can do one of the following:
 As a move action, you can move up to your speed. You can split this movement up and perform it before or after your other actions.
 
 As extra actions, you can take any of the above actions listed under **Tactics**, **Effects**, **Support**, and **Analysis**, up to the maximum amount in each category determined by its corresponding stat. For example, with an Analysis of 4, you can only ask up to four questions from the list each combat. Unlike other extra actions, you can use **Reactions** outside of your turn when the action's condition applies.
-
-After taking your turn, you gain the exhausted condition and are not eligible to take another turn. Once every member of a side is exhausted, remove the exhausted condition from them.
 
 ## Enemies and NPCs
 

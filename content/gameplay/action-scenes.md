@@ -7,11 +7,14 @@ weight: 9
 
 Action scenes are critical moments of gameplay where the narration of the game goes from a conversational flow to a more structured turn-based flow. Time slows down and every decision matters. For example, a combat against some bandits or a car chase are action scenes.
 
-In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:
+In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their opponents, but there could be more sides as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:
 - Move from one place to another
 - Make one roll
 
-Then, the opposing side takes a turn. However, only players roll dice. Whenever other characters or enemies act, the GM imposes a roll on one or more players. A member of a side cannot take another turn until all members of that side have taken a turn.
+Then, the opposing side takes a turn. However, only players roll dice. Whenever other characters or opponents act, the GM imposes a roll on one or more players.
+
+After taking a turn, a combatant gains the exhausted condition and is not eligible to take another turn. Once every member of a side is exhausted, remove the exhausted condition from them.
+
 
 ## Combat
 
