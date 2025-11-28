@@ -12,6 +12,7 @@
 
     <div class="book-page">
       <header class="book-header hidden">
+        {{ template "header" . }} <!-- Mobile layout header -->
       </header>
 
       {{ partial "docs/inject/content-before" . }}
