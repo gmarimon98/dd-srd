@@ -18,6 +18,6 @@ You can gain drive through the following methods:
 
 When roleplaying, if another player character does something that makes an impression or furthers your character's relationship with them, whether positively or negatively, you can mark one or two regard on your character sheet to grant them the same amount of drive. Once you have marked two regard, you cannot mark more in that session. At the start of each session, erase all regard you have marked.
 
-For context, this mechanic is inspired by video game RPGs where certain dialogue choices can further your relationship with NPCs ("Orion the handsome vampire will remember that").
+For context, this mechanic is inspired by video game RPGs where certain dialogue choices can further your relationship with NPCs.
 
 Non-player characters can give player characters regard at the GM's discretion.
