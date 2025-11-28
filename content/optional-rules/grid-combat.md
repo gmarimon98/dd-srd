@@ -97,7 +97,7 @@ Additionally, each grid combat, the GM can decide to adjust the rules in any way
 
 ## Abilities
 
-The GM can give players and other combatants one or more abilities that grant special bonuses or rules in grid combat. The following are thematic example abilities for a medieval fantasy campaign:
+The GM can give players and other combatants one or more abilities that grant special bonuses or rules in grid combat. For inspiration, see the following list of example abilities:
 
 * **Rage**: Now you’ve made me angry. Once per combat, when you take stress, you can enter a rage to gain +2 attack for the rest of combat.
 * **Knockback**: Your blows send tremors through the ground. Whenever you deal damage to an enemy, you can move them one or two spaces directly away from you. Once per turn, if you move the enemy into an obstacle or another combatant, instead deal one damage to both.
