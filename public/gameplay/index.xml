@@ -26,7 +26,7 @@
       <link>http://localhost:1313/gameplay/action-scenes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/gameplay/action-scenes/</guid>
-      <description>&lt;h1 id=&#34;action-scenes&#34;&gt;Action Scenes&lt;/h1&gt;&#xA;&lt;p&gt;Action scenes are critical moments of gameplay where the narration of the game goes from a conversational flow to a more structured turn-based flow. Time slows down and every decision matters. For example, a combat against some bandits or a car chase are action scenes.&lt;/p&gt;&#xA;&lt;p&gt;In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their enemies, but there could be a third side as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;action-scenes&#34;&gt;Action Scenes&lt;/h1&gt;&#xA;&lt;p&gt;Action scenes are critical moments of gameplay where the narration of the game goes from a conversational flow to a more structured turn-based flow. Time slows down and every decision matters. For example, a combat against some bandits or a car chase are action scenes.&lt;/p&gt;&#xA;&lt;p&gt;In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their opponents, but there could be more sides as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
