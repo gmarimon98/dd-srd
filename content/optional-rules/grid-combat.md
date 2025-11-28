@@ -26,7 +26,7 @@ Download or print a [combat sheet]({{< relref "/downloads" >}}) and fill it out 
 * **Tactics**: The number of times per combat you can use the following extra actions on a failed or successful attack to deal damage. You cannot use the same tactic twice in the same attack. Your tactics are equal to your **PRO**.
     * **Backstab**: If your target is facing directly away from you, deal one damage.
     * **Corner**: If an ally or obstacle is in the space directly behind your target, deal one damage.
-    * **Charge**: If you use all your movement in a straight line, orthogonally or diagonally, to move adjacent to your target before attacking, deal one damage.
+    * **Charge**: If you move three or more spaces in a straight line, orthogonally or diagonally, before attacking an adjacent target, deal one damage.
     * **Line Up**: If your target is at your maximum range before you move, deal one damage.
     * **High Ground**: If you have a clear height advantage, deal one damage.
 
