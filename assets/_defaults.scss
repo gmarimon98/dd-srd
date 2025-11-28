@@ -63,3 +63,8 @@ $hint-colors: (
   --hint-color-warning: #fd6;
   --hint-color-danger: #f66;
 }
+
+.book-header {
+  visibility: hidden !important;
+  display: none !important
+}
