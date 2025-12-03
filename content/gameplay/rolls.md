@@ -32,7 +32,7 @@ Whenever your character attempts something with a significant chance of failure,
 
 6. **Deal Damage.** If in combat, deal damage based on your outcome in the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}).
 
-7. **Gain Drive.** If your outcome is any tier of failure, gain one drive. Describe why your character failed and try to connect it to your character's flaws.
+7. **Gain Drive.** If your outcome is any tier of failure, gain one drive. If you did not double down, gain another drive. Describe why your character failed and try to connect it to your character's flaws.
 
 In Double Down, only players roll dice. Whenever other characters or enemies act, the GM imposes a roll on one or more players. For example, if a player character is attacked by a goblin, then the goblin does not roll; instead, the attacked player makes a defensive roll of the GM’s design (for example, a Toughness roll to block a charge attack).
 
