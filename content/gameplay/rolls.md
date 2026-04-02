@@ -53,7 +53,7 @@ If a player makes an attempt against another player, such as when trying to pick
 
 If the target rolls, then both players simultaneously choose whether or not to expend a tag and then roll. Whichever player rolls lowest becomes the main roller. They can choose whether to double down, using the higher result as the difficulty, and gain boons or banes based on the result.
 
-The GM can also use contested rolls when players make attempts against non-player characters and vice versa, following [Combat rules]({{< relref "/content/gameplay/action-scenes#combat" >}}).
+The GM can also use contested rolls when players make attempts against non-player characters and vice versa, following [Combat rules]({{< relref "/gameplay/action-scenes#combat" >}}).
 
 ---
 

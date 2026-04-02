@@ -11,7 +11,7 @@ In action scenes, the GM first establishes which sides are participating in the 
 - Move from one place to another
 - Make one roll
 
-Then, the opposing side takes a turn. The GM can use a flat difficulty to represent an enemy's efforts or use contested rolls when players make attempts against non-player characters and vice versa, following [Combat rules]({{< relref "/content/gameplay/action-scenes#combat" >}}).
+Then, the opposing side takes a turn. The GM can use a flat difficulty to represent an enemy's efforts or use contested rolls when players make attempts against non-player characters and vice versa, following [Combat rules]({{< relref "/gameplay/action-scenes#combat" >}}).
 
 After taking a turn, a combatant gains the exhausted condition and is not eligible to take another turn. Once every member of a side is exhausted, remove the exhausted condition from them.
 
