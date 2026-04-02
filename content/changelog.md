@@ -7,6 +7,18 @@ weight: 12
 
 Double Down has gone through the following rules and balance changes.
 
+## 2 April 2026
+- Removed grid combat
+- Adjusted contested rolls
+- Replaced star mentions with new iconography
+- Replaced drive with one-use tags
+- Removed regard
+- Failing a roll now lets you keep the tag you used
+- Changed combat statistics
+- Rebalanced difficulty table
+- Simplified rests
+- Removed natural 2 and 19 from the critical ranges
+
 ## 30 October 2025
 - Added a guide on running the game
 - Added contested rolls

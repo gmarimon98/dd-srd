@@ -11,42 +11,26 @@ In action scenes, the GM first establishes which sides are participating in the 
 - Move from one place to another
 - Make one roll
 
-Then, the opposing side takes a turn. However, only players roll dice. Whenever other characters or opponents act, the GM imposes a roll on one or more players.
+Then, the opposing side takes a turn. The GM can use a flat difficulty to represent an enemy's efforts or use contested rolls when players make attempts against non-player characters and vice versa, following [Combat rules]({{< relref "/content/gameplay/action-scenes#combat" >}}).
 
 After taking a turn, a combatant gains the exhausted condition and is not eligible to take another turn. Once every member of a side is exhausted, remove the exhausted condition from them.
-
 
 ## Combat
 
 Combat is a type of action scene where the players fight enemies. Enemies have the following attributes:
-- A difficulty, ranging from 10 to 25
+- A base combat bonus, ranging from +0 to +10
 - A health value, ranging from 1 to around 10
-- A list of tags, each with a star value ranging from 1✦ to 5✦
-- Optionally, one or more weaknesses which, if invoked in the roll, cause successful combat rolls to deal one extra damage
+- A list of tags, each with a level ranging from 1◆ to 5◆
 
 For example, the following is an enemy:
 
 **Young Red Dragon**
-- Difficulty: `10`
+- Bonus: `+4`
 - Health: `5`
-- Weakness: `Cold`
 - Tags:
-    - `Fire Breath` 4✦
-    - `Flying` 3✦
-    - `Hardy Scales` 3✦
-    - `Tail Swipe` 2✦
+    - `Fire Breath` 4◆
+    - `Flying` 3◆
+    - `Hardy Scales` 3◆
+    - `Tail Swipe` 2◆
 
-When attacking an enemy, make a roll against their difficulty plus an additional tag of the GM’s choice. An enemy’s tags are not exhausted after use. Instead, the enemy cannot use that same tag again until they have used all other tags at least once. If the roll is successful, the player applies damage to the enemy’s health based on the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}).
-
-When defending against an enemy, the player rolls defensively against the difficulty plus an additional tag of the GM’s choice. If successful, the player can also apply damage when attacked, as per the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}).
-
----
-
-## Example Combat Roll
-
-The following is a full example of a combat roll:
-
-1. A character chooses to attack the above Young Red Dragon, using their Combat stat (3✦), Broadsword (2✦), and one drive (1✦).
-2. In response, the Young Red Dragon uses its Tail Swipe (2✦) to try to keep its distance from the player character. This results in a modifier of +6 for the player (plus one boon if successful) and a difficulty of 12.
-3. The player rolls a 20 and scores a critical success, dealing 3 damage to the Young Red Dragon, bringing it down to 2 health remaining. 
-4. Because the attack resulted in a critical success, the player gains boons based on the [**Difficulty Table**]({{< relref "/reference#difficulty" >}}), gaining 2 boons (plus 1 from the spent drive) as per the difficulty 12 row.
+When a player attacks an enemy or vice versa, that player and the GM do a contested roll, with any banes the enemy incurs each reducing its health by one. Enemy tags are not exhausted after successful use. Instead, the enemy cannot use that same tag again until they have used all other tags at least once.

@@ -7,35 +7,35 @@ weight: 10
 
 ## Outcomes
 
-**Outcome**          | **Effect**      | **Combat**
----------------------|-----------------|------------
-Legendary Success    | Gain 3x boons   | 15 damage
-Overwhelming Success | Gain 2x boons   | 7 damage
-Critical Success     | Gain boons      | 3 damage
-Success              | -               | 1 damage
-Failure              | Suffer banes    | -
-Critical Failure     | Suffer 2x banes | -
-Overwhelming Failure | Suffer 4x banes | -
-Legendary Failure    | Suffer 6x banes | -
+**Outcome**          | **Effect**      
+---------------------|-----------------
+Legendary Success    | Gain 3x boons
+Overwhelming Success | Gain 2x boons
+Critical Success     | Gain boons
+Success              | -
+Failure              | Suffer banes
+Critical Failure     | Suffer 2x banes
+Overwhelming Failure | Suffer 4x banes
+Legendary Failure    | Suffer 6x banes
 
 ## Difficulty
 
 **Category** | **Difficulty** | **Boons** | **Banes**
 -------------|----------------|-----------|-----------
-Easy         | 10-12          | 2         | 1
-Medium       | 13-15          | 4         | 2
-Hard         | 16-18          | 6         | 3
-Expert       | 19-21          | 8         | 4
-Impossible   | 22+            | 10        | 5
+Easy         | 10 or less     | 2         | 1
+Medium       | 11-13          | 4         | 2
+Hard         | 14-16          | 6         | 3
+Expert       | 17-19          | 8         | 4
+Impossible   | 20 or more     | 10        | 5
 
 ## Boons
 
-**Cost** | **Effect**
----------|------------
-1 boon   | Recover stress
-2 boons  | Recover tag
-2 boons  | Gain drive
-X boons  | Gain a story reward
+**Cost**         | **Effect**
+-----------------|------------
+1 boon           | Recover stress
+2 boons          | Recover tag
+1/3/5/7/9 boons  | Gain a one-use tag
+X boons          | Gain a story reward
 
 ## Banes
 
@@ -49,15 +49,8 @@ X banes  | Complicate the story
 
 **Cost**     | **Effect**
 -------------|------------
-1 experience | Gain a new 1✦ tag
-3 experience | Upgrade a 1✦ tag to 2✦
-5 experience | Upgrade a 2✦ tag to 3✦
-7 experience | Upgrade a 3✦ tag to 4✦
-9 experience | Upgrade a 4✦ tag to 5✦
-
-## Storytelling Requirements
-
-**Context** | **Requirement**
-------------|-----------------
-When applying drive... | What unique strategy are you using to give you an advantage, or why is this attempt particularly important to you?
-When failing a roll... | Why did you fail? Which of your flaws can you connect this to?
+1 experience | Gain a new 1◆ tag
+3 experience | Upgrade a 1◆ tag to 2◆
+5 experience | Upgrade a 2◆ tag to 3◆
+7 experience | Upgrade a 3◆ tag to 4◆
+9 experience | Upgrade a 4◆ tag to 5◆

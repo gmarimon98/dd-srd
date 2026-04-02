@@ -5,7 +5,7 @@ weight: 2
 
 # Tags
 
-Tags are narrative details about your character, each with a level from 1✦ to 5✦, that can provide a bonus to your rolls. You can only add one tag to a roll.
+Tags are narrative details about your character, each with a level from 1◆ to 5◆, that can provide a bonus to your rolls. You can only add one tag to a roll.
 
 For example, tags can represent any of the following:
 
