@@ -9,7 +9,7 @@ To create a character, first brainstorm character concepts that suit the tone an
 
 1. **Get a Character Sheet.** The Double Down character sheet PDF is [available for download](https://1drv.ms/b/c/391fe1ecd2a3c6fc/EcLm-nAlkyxAhIphdENLOBMBleH7MgqELQP_HNhcn5sHOg?e=7AyqeS).
 
-2. **Fill in Character Details.** Write your character's name at the top of the sheet, then fill in each field below with your character's personal details (such as Motivations and Flaws). This section has no mechanical or gameplay effect and only exists to help you further develop your character, so feel free to skip this step if you want more time to brainstorm your character's personality.
+2. **Name your Character.** Write your character's name at the top of the sheet.
 
 3. **Rank your Stats.** From the list of eight default [stats]({{< relref "/character-stats/stats" >}}), select one to have 5◆, two to have 4◆, two to have 3◆, two to have 2◆, and one to have 1◆. Fill in the appropriate number of ◆ icons for each on your character sheet. You cannot upgrade or change these values in the future, so make sure you’re happy with them.
 

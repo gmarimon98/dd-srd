@@ -7,7 +7,7 @@ weight: 3
 
 Whenever your character attempts something with a significant chance of failure, the GM may call for a roll. Rolls have the following steps.
 
-1. **Set Base Stat and Difficulty.** The GM sets a relevant base stat from the stat list (for example, Agility to cross a rickety bridge) and a difficulty from 10 (easy) to 22 or more (impossible).
+1. **Set Base Stat and Difficulty.** The GM sets a relevant base stat from the stat list (for example, Agility to cross a rickety bridge) and a difficulty, usually from 10 (easy) to 20 (impossible).
 
 2. **Add Bonuses.** Create your die modifier (ranging from +0 to +18) by adding up the bonuses on your character sheet from the following sources. The total is your modifier. For example, 6◆ results in a modifier of +6.
 
@@ -31,7 +31,7 @@ Whenever your character attempts something with a significant chance of failure,
 
 6. **Deal Damage.** If in combat, deal damage based on your outcome in the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}).
 
-7. **Exhaust Tag.** If your outcome is any tier of success, exhaust the tag you used, if any. To exhaust a tag, fill in the checkbox next to it on your character sheet. After exhausting a tag, you cannot exhaust it again until you recover it through boons or rest.
+7. **Exhaust Tag.** If your outcome is any tier of success, exhaust the tag you used, if any. To exhaust a tag, fill in the checkbox next to it on your character sheet. After exhausting a tag, you cannot use it again until you recover it through boons or rest.
 
 ## Support Rolls
 
