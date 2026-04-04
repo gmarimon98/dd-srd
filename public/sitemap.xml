@@ -22,8 +22,6 @@
   </url><url>
     <loc>http://localhost:1313/character-stats/stress/</loc>
   </url><url>
-    <loc>http://localhost:1313/character-stats/drive/</loc>
-  </url><url>
     <loc>http://localhost:1313/character-stats/experience/</loc>
   </url><url>
     <loc>http://localhost:1313/optional-rules/modifiers/</loc>
@@ -33,8 +31,6 @@
     <loc>http://localhost:1313/run-the-game/</loc>
   </url><url>
     <loc>http://localhost:1313/optional-rules/side-sheets/</loc>
-  </url><url>
-    <loc>http://localhost:1313/optional-rules/grid-combat/</loc>
   </url><url>
     <loc>http://localhost:1313/reference/</loc>
   </url><url>
