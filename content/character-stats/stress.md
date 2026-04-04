@@ -9,7 +9,7 @@ Stress represents physical injury and hurt morale, with each character taking up
 
 When you take stress, mark out bubbles on the stress track from left to right equal to the amount of stress taken. The stress track has bonuses for reaching certain levels of stress. While you have 2-3 stress, all rolls you make have a bonus of 1◆. While you have 4-5 stress, increase that bonus to 2◆. While you have 6-7 stress, increase that bonus to 3◆.
 
-Narratively, this represents your character's increasing determination as their circumstances become grimmer and all hope seems lost.
+In the narrative, this represents your character's increasing determination as their circumstances become grimmer and all hope seems lost.
 
 ## Rest
 
