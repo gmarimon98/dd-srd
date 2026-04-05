@@ -29,9 +29,7 @@ Whenever your character attempts something with a significant chance of failure,
     - If your roll resulted in boons, spend them in the [**Boons Table**]({{< relref "/reference#boons" >}}).
     - If your roll resulted in banes, the GM spends them in the [**Banes Table**]({{< relref "/reference#banes" >}}).
 
-6. **Deal Damage.** If in combat, deal damage based on your outcome in the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}).
-
-7. **Exhaust Tag.** If your outcome is any tier of success, exhaust the tag you used, if any. To exhaust a tag, fill in the checkbox next to it on your character sheet. After exhausting a tag, you cannot use it again until you recover it through boons or rest.
+6. **Exhaust Tag.** If your outcome is any tier of success, exhaust the tag you used, if any. To exhaust a tag, fill in the checkbox next to it on your character sheet. After exhausting a tag, you cannot use it again until you recover it through boons or rest.
 
 ## Support Rolls
 
