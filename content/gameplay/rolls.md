@@ -49,7 +49,11 @@ The group votes on whether to double down, with the roller breaking ties.
 
 If a player makes an attempt against another player, such as when trying to pickpocket them or tell if they are lying, the GM first offers the target player a choice. The target player can either allow the attempting player to automatically succeed, make them automatically fail, or let them roll to leave it up to chance.
 
-If the target rolls, then both players simultaneously choose whether or not to expend a tag and then roll. Whichever player rolls lowest becomes the main roller. They can choose whether to double down, using the higher result as the difficulty, and gain boons or banes based on the result.
+If the target rolls, then both players simultaneously choose whether or not to expend a tag and then roll. The player who rolls higher results in a Success, while the player who rolls lower results in a Failure. Rolling a 1 or a 20 does not result in a critical outcome.
+
+The player who rolls lowest can then optionally double down, using the higher roll as the difficulty. If they turn their failure into any tier of success, the higher roller's outcome turns into a failure.
+
+Then, each player receives boons or banes using the other player's roll as the difficulty.
 
 The GM can also use contested rolls when players make attempts against non-player characters and vice versa, following [Combat rules]({{< relref "/gameplay/action-scenes#combat" >}}).
 
@@ -64,5 +68,4 @@ The following is a full example of a roll:
 3. The player rolls a D20 and gets a 6, which added to the modifier of +5 results in 11: a failure. 
 4. The player chooses to double down. They roll again and get a natural 20: a critical success. The original failure is upgraded two tiers to a critical success. 
 5. The critical success results in four boons and the player can spend that amount on any of the effects from the Boons table. For example, with the four boons, they may recover two tags.
-6. Since the player is not in combat, they do not deal damage.
-7. Since the player did not fail, they exhaust their tag.
+6. Since the player succeeded, they exhaust their tag.

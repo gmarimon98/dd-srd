@@ -15,5 +15,3 @@ Double Down has the following default stats:
 - **Perception**: Represents the acuity of your senses. Used to spot clues, search a messy room for a lost item, and see a trap before it springs.
 - **Toughness**: Represents how physically strong and resilient you are. Used to defend from certain attacks, lift heavy objects, and wrestle.
 - **Wisdom**: Represents how attuned you are to others. Used to gain insight into someone else and heal or support them, or interact with animals.
-
-There are nine total stat slots. The GM can optionally create additional stats or edit existing ones to fit the game's setting. When creating your character, ask the GM what stats they have selected. If using more than eight stats, select more stats to have 3◆ when creating a character. Example additional stats include Magic, Psionics, Luck, Sanity, Monster Training, Humanity, etc.

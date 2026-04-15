@@ -6,7 +6,7 @@ weight: 1
 
 # Welcome to Double Down
 
-**Double Down** (or **DD20**) is a rules-light, generic D20 TTRPG system geared toward roleplaying, featuring a core push-your-luck mechanic. The rules are completely free and playing only requires the following additional materials:
+**Double Down** (or **DD20**) is a rules-light, generic D20 tabletop RPG system geared toward roleplaying, featuring a core push-your-luck mechanic. The rules are completely free and playing only requires the following additional materials:
 
 * a [character sheet](/dd-sheet.pdf) per player
 * one or more 20-sided dice to share
