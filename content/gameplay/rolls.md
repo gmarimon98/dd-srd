@@ -41,7 +41,7 @@ When determining support roll difficulty, a good baseline is 10 plus the amount 
 
 If one or more characters collaborate on an attempt, the roll becomes a group roll. One of the group roll's participants of their choice becomes the roller and rolls the D20 for the group. The roll's modifier is still formed by the bonuses of up to one stat, one tag, and one stress track. However, these sources can come from any participant.
 
-For example, if players are collaborating to lift a heavy object, then one character can contribute a bonus from their **Toughness** (5◆) stat, another a bonus from their `Four Arms` (4◆) tag, and another a bonus from their stress track (2◆) for a total modifier of +15.
+For example, if players are collaborating to lift a heavy object, then one character can contribute a bonus from their **Toughness** (5◆) stat, another a bonus from their `Four Arms` (4◆) tag, and another a bonus from their stress track (2◆) for a total modifier of +11.
 
 The group votes on whether to double down, with the roller breaking ties.
 
