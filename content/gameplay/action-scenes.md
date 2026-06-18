@@ -33,7 +33,9 @@ For example, the following is an enemy:
     - `Hardy Scales` 3◆
     - `Tail Swipe` 2◆
 
-When a player attacks an enemy or vice versa, that player and the GM do a contested roll, with any banes the enemy incurs each reducing its health by one. Enemies do not gain boons. Enemy tags are not exhausted after successful use. Instead, the enemy cannot use that same tag again until they have used all other tags at least once.
+When a player attacks an enemy or vice versa, that player and the GM do a contested roll, with any banes the enemy incurs each reducing its health by one. When their health reaches zero, they are defeated. Enemy tags are not exhausted after successful use. Instead, the enemy cannot use that same tag again until they have used all other tags at least once.
+
+If an enemy incurs more banes than their health, they are defeated and the player gains boons equal to any remaining banes.
 
 ---
 
@@ -44,6 +46,6 @@ The following is a full example of a roll:
 1. If a character attempts to hit the Young Red Dragon above with their sword, then the GM calls for a contested roll between the player and the dragon.
 2. The player adds their Combat stat (3◆), their `Broadsword` tag (2◆), and bonus from stress (1◆) for a total modifier of +6. The GM adds the dragon's bonus (+4) and a tag it can use in the moment, `Fire Breath` (4◆), for a total modifier of +8.
 3. The player and the GM each roll simultaneously. The GM rolls a 10, which plus the dragon's modifier of +8, results in an 18. The player rolls a 4, which plus the player's modifier of +6, results in a 10.
-4. Since the player rolled the lower result, they then choose whether or not to double down. Because the dragon's roll is an 18, the player would take four stress if they don't double down. However, the player decides to risk it all and double down. They roll a natural 20, which plus the player's modifier of +6, results in a 26.
-5. Because the player rolled a 20, their original outcome increases by two tiers to a critical success. Because the player turned their failure into a success, the dragon's success becomes a failure.
-6. Each player gets boons or banes using the other's roll as the difficulty. The player gains eight boons (critical success, difficulty 18), and the dragon takes five banes (failure, difficulty 26), resulting in five damage, which is enough to defeat it.
+4. Since the player rolled the lower result, they then choose first whether or not to re-roll. The player decides to risk it and re-roll. They roll a natural 20, which plus the player's modifier of +6, results in a 26.
+5. Then, the GM can choose to re-roll for the dragon. They roll and get a total of 16.
+6. The dragon then gains banes equal using the player's result as the difficulty, doubled once because one of the results was a natural 20. In this case, the dragon would take ten banes, which is enough to defeat it.

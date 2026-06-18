@@ -49,11 +49,7 @@ The group votes on whether to double down, with the roller breaking ties.
 
 If a player makes an attempt against another player, such as when trying to pickpocket them or tell if they are lying, the GM first offers the target player a choice. The target player can either allow the attempting player to automatically succeed, make them automatically fail, or let them roll to leave it up to chance.
 
-If the target rolls, then both players simultaneously choose whether or not to expend a tag and then roll. The player who rolls higher results in a Success, while the player who rolls lower results in a Failure. Rolling a 1 or a 20 does not result in a critical outcome.
-
-The player who rolls lowest can then optionally double down, using the higher roll as the difficulty. If they turn their failure into any tier of success, the higher roller's outcome turns into a failure.
-
-Then, each player receives boons or banes using the other player's roll as the difficulty.
+If the target player chooses to let the attempting player roll for it, then both players simultaneously choose whether or not to expend a tag and then roll. Then, starting with the player who rolled lower, each player can choose to re-roll and must use the new result. Finally, the player who rolled lower receives banes using the player who rolled higher's result as the difficulty. If any of the final results were a natural 1 or a 20, double the banes incurred. In the case of a tie, no banes are incurred.
 
 The GM can also use contested rolls when players make attempts against non-player characters and vice versa, following [Combat rules]({{< relref "/gameplay/action-scenes#combat" >}}).
 
