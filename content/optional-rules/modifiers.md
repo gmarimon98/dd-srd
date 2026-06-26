@@ -11,9 +11,9 @@ The GM can incorporate any of the following rules adjustments to suit their camp
 
 * **Random Stats**: When creating a character, instead of assigning stats normally, roll 1D10 for each stat in order and divide each result by two, rounding up. For example, for Toughness, if you roll a 5, then the stat is 3◆.
 
-* **EXP Share**: If the GM awards additional experience points, all players gain them. If the GM awards a tag to one or more players, other players receive experience equal to the value of that tag. For example, if a player receives a 2◆ `Cloak of Flying`, other players receive 4 experience.
+* **Experience Share**: If the GM awards additional experience points, all players gain them. If the GM awards a tag to one or more players, other players receive experience equal to the value of that tag. For example, if a player receives a 2◆ `Cloak of Flying`, other players receive 4 experience points.
 
-* **EXP Awards**: Players gain 4 EXP at the end of each session instead of 5 EXP. At the start of the campaign, decide on a list of awards roughly equal to the number of players; for example, the Boldest Choice award, the Character Development award, the Meaningful Connection award, the Funniest Moment award, or the Death Wish award. At the end of each session, for each award, the GM prompts the players to discuss the events of the session and reach a consensus to give each award to one or two players. Each award gives a player 1 EXP.
+* **Experience Awards**: Players gain 4 experience points at the end of each session instead of 5 experience points. At the start of the campaign, decide on a list of awards roughly equal to the number of players; for example, the Boldest Choice award, the Character Development award, the Meaningful Connection award, the Funniest Moment award, or the Death Wish award. At the end of each session, for each award, the GM prompts the players to discuss the events of the session and reach a consensus to give each award to one or two players. Each award gives a player 1 experience point.
 
 * **Death Roll**: When a character would become OUT in a context where they might die, the GM can call for a death roll. The player must roll a D20 with no bonus. If they roll a 1, their character dies. If they roll a 20, they recover one stress. If they roll anything else, they become OUT normally.
 
