@@ -9,7 +9,7 @@ Whenever your character attempts something with a significant chance of failure,
 
 1. **Set Base Stat and Difficulty.** The GM sets a relevant base stat from the stat list (for example, Agility to cross a rickety bridge) and a difficulty, usually from 10 (easy) to 20 (impossible).
 
-2. **Add Bonuses.** Create your die modifier (ranging from +0 to +18) by adding up the bonuses on your character sheet from the following sources. The total is your modifier. For example, 6◆ results in a modifier of +6.
+2. **Add Bonuses.** Create your die modifier (ranging from +0 to +13) by adding up the bonuses on your character sheet from the following sources. The total is your modifier. For example, 6◆ results in a modifier of +6.
 
     - You *must* add bonus from the roll's base stat, which range from 1◆ to 5◆.
     - You *must* add bonus from the stress track, which range from 1◆ to 3◆.
@@ -49,7 +49,9 @@ The group votes on whether to double down, with the roller breaking ties.
 
 If a player makes an attempt against another player, such as when trying to pickpocket them or tell if they are lying, the GM first offers the target player a choice. The target player can either allow the attempting player to automatically succeed, make them automatically fail, or let them roll to leave it up to chance.
 
-If the target player chooses to let the attempting player roll for it, then both players simultaneously choose whether or not to expend a tag and then roll. Then, starting with the player who rolled lower, each player can choose to re-roll and must use the new result. Finally, the player who rolled lower receives banes using the player who rolled higher's result as the difficulty. If any of the final results were a natural 1 or a 20, double the banes incurred. In the case of a tie, no banes are incurred.
+If the target player chooses to let the attempting player roll for it, then both players simultaneously choose whether or not to expend a tag and then roll. Starting with the player who rolled lower, each player can choose to double down and must use the new result. The player who rolled lower receives banes using the player who rolled higher's result as the difficulty. 
+
+If the losing player doubled down, or if either final result was a natural 1 or 20, double the banes incurred. In the case of a tie, no banes are incurred.
 
 The GM can also use contested rolls when players make attempts against non-player characters and vice versa, following [Combat rules]({{< relref "/gameplay/action-scenes#combat" >}}).
 
