@@ -1,0 +1,24 @@
+// ── DD20 SRD Custom Styles ────────────────────────────────────────────────────
+
+// Diagonal ombré: deep navy (top-left) → rich midnight blue (bottom-right).
+// background-attachment: fixed pins the gradient to the viewport so it reads
+// as a single wash across the whole site as content scrolls over it.
+
+body {
+  background-color: #0d1b2a !important;
+  background-image: linear-gradient(
+    145deg,
+    #13233a 0%,
+    #0f2040 28%,
+    #162d58 62%,
+    #0e1e3a 100%
+  ) !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+}
+
+// The sidebar panel defaults to var(--body-background), a flat color.
+// Make it transparent so the gradient shows through seamlessly.
+.book-menu .book-menu-content {
+  background: transparent !important;
+}
