@@ -9,9 +9,9 @@ body {
   background-image: linear-gradient(
     145deg,
     #13233a 0%,
-    #0f2040 28%,
-    #162d58 62%,
-    #0e1e3a 100%
+    #153243 28%,
+    #284B63 62%,
+    #284B63 100%
   ) !important;
   background-attachment: fixed !important;
   background-size: cover !important;
@@ -24,10 +24,10 @@ body {
   background: transparent !important;
 }
 
-// ── Karla font ────────────────────────────────────────────────────────────────
-@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+// ── Inter font ────────────────────────────────────────────────────────────────
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-// Apply Karla across all text elements
+// Apply Inter across all text elements
 body, p, li, a, span, td, th, label, input, button {
-  font-family: 'Karla', sans-serif !important;
+  font-family: 'Inter', sans-serif !important;
 }
