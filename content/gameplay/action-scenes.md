@@ -7,7 +7,7 @@ weight: 9
 
 Action scenes are critical moments of gameplay where the narration of the game goes from a conversational flow to a more structured turn-based flow. Time slows down and every decision matters. For example, a combat against some bandits or a car chase are action scenes.
 
-In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their opponents, but there could be more sides as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take the following actions:
+In action scenes, the GM first establishes which sides are participating in the scene (usually just the players and their opponents, but there could be more sides as well) and which side starts. Each side takes one turn at a time. When it’s the players’ side’s turn, one member of that side can take both of the following actions:
 - Move from one place to another
 - Make one roll
 
