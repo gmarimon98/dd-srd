@@ -34,7 +34,7 @@ Impossible   | 20 or more     | 10        | 5
 -----------------|------------
 1 boon           | Recover stress
 2 boons          | Recover tag
-1/3/5/7/9 boons  | Gain a one-use tag
+1/3/5/7/9 boons  | Gain a one-use tag (1◆ to 5◆)
 X boons          | Gain a story reward
 
 ## Banes
