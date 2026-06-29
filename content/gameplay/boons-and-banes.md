@@ -19,4 +19,4 @@ As a bane, the GM can choose to build one or more points of tension to the sessi
 
 When a player selects the **Gain a story reward** boon option, they may spend any amount of boons they have to gain a surprise narrative benefit of the GM's choice, roughly proportional to the amount of boons spent. For example, a story reward could earn a player a new ally, a shiny piece of loot, a convenient discovery, or decreased difficulties for the rest of the scene.
 
-Similarly, when a GM selects the **Complicate the story** bane option, they do the same with narrative obstacles. For example, a story complication could introduce new danger to a scene, force the players to make a difficult choice, or even give the players a negative reputation in the future.
+Similarly, when a GM selects the **Complicate the story** bane option, they do the same with narrative obstacles. For example, a story complication could introduce new danger to a scene, force the players to make a difficult choice, or give the players a negative reputation.

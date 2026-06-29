@@ -13,7 +13,7 @@ Whenever your character attempts something with a significant chance of failure,
 
     - You *must* add bonus from the roll's base stat, which range from 1◆ to 5◆.
     - You *must* add bonus from the stress track, which range from 1◆ to 3◆.
-    - You can optionally use up to one tag relevant to add its bonus, which range from 1◆ to 5◆. You can alternatively exhaust a tag irrelevant to the attempt to gain its bonus, but at a -1◆ penalty.
+    - You can optionally use up to one relevant tag to add its bonus, which range from 1◆ to 5◆. You can alternatively use an irrelevant tag at a -1◆ penalty.
 
 3. **Roll.** Roll a 20-sided die and add your modifier, resulting in one of the following outcomes. Critical outcomes take priority over non-critical outcomes.
 
@@ -26,8 +26,8 @@ Whenever your character attempts something with a significant chance of failure,
 
 5. **Calculate Boons and Banes.** With your final outcome, the GM refers to the [**Outcomes Table**]({{< relref "/reference#outcomes" >}}) to determine whether you earned boons or incurred banes, keeping note of any multiplier the outcome may list. If the outcome results in boons or banes, the GM then refers to the [**Difficulty Table**]({{< relref "/reference#difficulty" >}}) to see how many, multiplying the total by the multiplier in the Outcomes table.
 
-    - If your roll resulted in boons, spend them in the [**Boons Table**]({{< relref "/reference#boons" >}}).
-    - If your roll resulted in banes, the GM spends them in the [**Banes Table**]({{< relref "/reference#banes" >}}).
+    - If your roll resulted in boons, immediately spend them in the [**Boons Table**]({{< relref "/reference#boons" >}}).
+    - If your roll resulted in banes, the GM spends them immediately in the [**Banes Table**]({{< relref "/reference#banes" >}}).
 
 6. **Exhaust Tag.** If your outcome is any tier of success, exhaust the tag you used, if any. To exhaust a tag, fill in the checkbox next to it on your character sheet. After exhausting a tag, you cannot use it again until you recover it through boons or rest.
 
@@ -51,7 +51,7 @@ If a player makes an attempt against another player, such as when trying to pick
 
 If the target player chooses to let the attempting player roll for it, then both players simultaneously choose whether or not to expend a tag and then roll. Starting with the player who rolled lower, each player can choose to double down and must use the new result. The player who rolled lower receives banes using the player who rolled higher's result as the difficulty. 
 
-If the losing player doubled down, or if either final result was a natural 1 or 20, double the banes incurred. In the case of a tie, no banes are incurred.
+If the losing player doubled down, or if either final result is a natural 1 or 20, double the banes incurred. In the case of a tie, no banes are incurred.
 
 The GM can also use contested rolls when players make attempts against non-player characters and vice versa, following [Combat rules]({{< relref "/gameplay/action-scenes#combat" >}}).
 
