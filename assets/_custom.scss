@@ -5,17 +5,26 @@
 // as a single wash across the whole site as content scrolls over it.
 
 body {
-  background-color: #0d1b2a !important;
-  background-image: linear-gradient(
+  background: #0d1b2a;
+  font-family: 'Inter', sans-serif;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+
+  background: linear-gradient(
     145deg,
     #13233a 0%,
     #153243 28%,
     #284B63 62%,
     #284B63 100%
-  ) !important;
-  background-attachment: fixed !important;
-  background-size: cover !important;
-  font-family: 'Inter', sans-serif !important;
+  );
+
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 // The sidebar panel defaults to var(--body-background), a flat color.
