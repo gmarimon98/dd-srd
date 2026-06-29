@@ -5,7 +5,7 @@
 // as a single wash across the whole site as content scrolls over it.
 
 body {
-  background: #153243;
+  background: #0d1b2a;
   font-family: 'Inter', sans-serif;
 }
 
@@ -29,6 +29,11 @@ body::before {
 
 // The sidebar panel defaults to var(--body-background), a flat color.
 // Make it transparent so the gradient shows through seamlessly.
+@media (min-width: 769px) {
+  .book-menu .book-menu-content {
+    background: transparent !important;
+  }
+}
 
 
 // ── Inter font ────────────────────────────────────────────────────────────────
