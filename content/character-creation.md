@@ -5,7 +5,7 @@ weight: 1
 
 # Character Creation
 
-To create a character, first brainstorm character concepts that suit the tone and setting and tone of your game with your group, ideally in a Session Zero. Once you have a character concept you're happy with, follow these steps:
+To create a character, first brainstorm character concepts that suit the tone and setting and tone of your game with your group, ideally in a session zero. Once you have a character concept you're happy with, follow these steps:
 
 1. **Get a Character Sheet.** The Double Down character sheet PDF is [available for download](/dd-sheet.pdf).
 
