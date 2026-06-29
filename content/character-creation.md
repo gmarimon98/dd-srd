@@ -13,7 +13,7 @@ To create a character, first brainstorm character concepts that suit the tone an
 
 3. **Rank your Stats.** From the list of eight default [stats]({{< relref "/character-stats/stats" >}}), select one to have 5◆, two to have 4◆, two to have 3◆, two to have 2◆, and one to have 1◆. Fill in the appropriate number of ◆ icons for each on your character sheet. You cannot upgrade or change these values in the future, so make sure you’re happy with them.
 
-4. **Create Tags.** Tags are narrative details about your character, each with a level from 1◆ to 5◆, that can provide a bonus to your rolls. Create four tags with 3◆, four tags with 2◆, and four tags with 1◆. For example, tags can be the following:
+4. **Create Tags.** Tags are narrative details about your character, each with a level from 1◆ to 5◆, that can provide a bonus to your rolls. Create three tags with 3◆, three tags with 2◆, and three tags with 1◆. For example, tags can be the following:
 
     - Tags can represent who your character is and what forms their identity. For example, `Scientist`, `Elf`, `Gigantic`, `Stubborn`, `Head of the Council`, and `Good Dad`.
 
